@@ -10,7 +10,7 @@
     "mode": "smart"
   },
   "routes": [{
-    "pattern": "uplink.tech/kb",
+    "pattern": "uplink.tech/knowledge-base/*",
     "zone_name": "uplink.tech"
   }]
 }
