@@ -1,6 +1,6 @@
 {
-	"name": "knowledge-base",
-	"version": "0.0.0",
+	"name": "uplink-knowledge-base",
+	"version": "1.0.0",
 	"private": true,
 	"scripts": {
 		"docusaurus": "docusaurus",
@@ -21,7 +21,8 @@
 		"clsx": "^2.0.0",
 		"prism-react-renderer": "^2.3.0",
 		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
+		"react-dom": "^19.0.0",
+		"rehype-cloudinary-docusaurus": "^3.0.0"
 	},
 	"devDependencies": {
 		"@docusaurus/module-type-aliases": "3.8.1",

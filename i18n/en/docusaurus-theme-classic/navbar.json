@@ -1,0 +1,26 @@
+{
+  "item.label.Knowledge Base": {
+    "message": "Knowledge Base",
+    "description": "Navbar item with label Knowledge Base"
+  },
+  "item.label.Topics": {
+    "message": "Topics",
+    "description": "Navbar item with label Topics"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Uplink Website": {
+    "message": "Uplink Website",
+    "description": "Navbar item with label Uplink Website"
+  },
+  "item.label.Slack": {
+    "message": "Slack",
+    "description": "Navbar item with label Slack"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

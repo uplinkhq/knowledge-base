@@ -1,139 +1,122 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
+import { themes as prismThemes }  from "prism-react-renderer";
+import rehypeCloudinaryDocusaurus from "rehype-cloudinary-docusaurus";
 
-import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-/** @type {import('@docusaurus/types').Config} */
+/** @type {import("@docusaurus/types").Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: "Uplink Knowledge Base",
+  // favicon: "images/favicon.ico",
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
-  future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
-  },
+  url: "https://uplink.tech",
+  baseUrl: "/knowledge-base/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "throw",
 
-  // Set the production url of your site here
-  url: 'https://uplink.tech',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/knowledge-base/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'uplinkhq', // Usually your GitHub org/user name.
-  projectName: 'knowledge-base', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "de",
+    locales: ["de", "en"]
   },
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      "classic",
+      /** @type {import("@docusaurus/preset-classic").Options} */
       ({
         docs: {
-          routeBasePath: '/',
-          sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/uplinkhq/knoweldge-base/tree/main/packages/create-docusaurus/templates/shared/',
+          routeBasePath: "/",
+          sidebarPath: "./sidebars.js",
+          editUrl: "https://github.com/uplinkhq/knowledge-base/tree/main/",
+          editLocalizedFiles: true,
+          rehypePlugins: [
+            process.env.NODE_ENV === "production" && [
+              rehypeCloudinaryDocusaurus,
+              {
+                cloudName: "uplinkhq",
+                baseUrl: "https://uplink.tech"
+              }
+            ]
+          ].filter(Boolean)
         },
         theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
+          customCss: "./src/css/custom.css"
+        }
+      })
+    ]
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "images/logo.png",
+      colorMode: {
+        respectPrefersColorScheme: true
+      },
       navbar: {
-        title: 'My Site',
+        // title: "My Site",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: "Uplink",
+          src: "images/logo.png",
+          // href: "https://uplink.tech/", // Set explicitly, otherwise "/" is assumed and a broken link error is thrown.
+          target: "_self"
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+            label: "Knowledge Base",
+            to: "/"
+          }, {
+            label: "Uplink Website",
+            href: "https://uplink.tech/",
+            position: "right"
+          }, {
+            label: "Community Slack",
+            href: "https://uplinkhq.slack.com",
+            position: "right"
+          }, {
+            type: "localeDropdown",
+            position: "right"
+          }
+        ]
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Uplink",
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
+                label: "Uplink Website",
+                href: "https://uplink.tech/"
+              }, {
+                label: "Community Slack",
+                href: "https://uplinkhq.slack.com"
+              }
+            ]
+          }, {
+            title: "Login",
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                label: "Freelancer Login",
+                href: "https://my.uplink.tech"
+              }, {
+                label: "Company Login",
+                href: "https://app.uplink.tech"
+              }, {
+                label: "Recruiter Login",
+                href: "https://partners.uplink.tech"
+              }
+            ]
+          }
+        ]
       },
       prism: {
         theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
+        darkTheme: prismThemes.dracula
       },
-    }),
-};
+      algolia: {
+        appId: "K9RDB6VV79",
+        apiKey: "dummy",
+        indexName: "uplink"
+      }
+    })
+}
 
-export default config;
+export default config

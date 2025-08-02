@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.knowledgeBaseSidebar.category.Für Freelancer": {
+    "message": "For Freelancers",
+    "description": "The label for category Für Freelancer in sidebar knowledgeBaseSidebar"
+  },
+  "sidebar.knowledgeBaseSidebar.category.Für Unternehmen": {
+    "message": "For Companies",
+    "description": "The label for category Für Unternehmen in sidebar knowledgeBaseSidebar"
+  },
+  "sidebar.knowledgeBaseSidebar.category.Für Recruiter": {
+    "message": "For Recruiters",
+    "description": "The label for category Für Recruiter in sidebar knowledgeBaseSidebar"
+  },
+  "sidebar.knowledgeBaseSidebar.category.Über uns": {
+    "message": "About us",
+    "description": "The label for category Über uns in sidebar knowledgeBaseSidebar"
+  }
+}

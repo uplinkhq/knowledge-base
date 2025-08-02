@@ -1,0 +1,30 @@
+{
+  "link.title.Uplink": {
+    "message": "Uplink",
+    "description": "The title of the footer links column with title=Uplink in the footer"
+  },
+  "link.title.Login": {
+    "message": "Login",
+    "description": "The title of the footer links column with title=Login in the footer"
+  },
+  "link.item.label.Uplink Website": {
+    "message": "Uplink Website",
+    "description": "The label of footer link with label=Uplink Website linking to https://uplink.tech/"
+  },
+  "link.item.label.Slack": {
+    "message": "Slack",
+    "description": "The label of footer link with label=Slack linking to https://uplinkhq.slack.com"
+  },
+  "link.item.label.Freelancer Login": {
+    "message": "Freelancer Login",
+    "description": "The label of footer link with label=Freelancer Login linking to https://my.uplink.tech"
+  },
+  "link.item.label.Company Login": {
+    "message": "Company Login",
+    "description": "The label of footer link with label=Company Login linking to https://app.uplink.tech"
+  },
+  "link.item.label.Recruiter Login": {
+    "message": "Recruiter Login",
+    "description": "The label of footer link with label=Recruiter Login linking to https://partners.uplink.tech"
+  }
+}

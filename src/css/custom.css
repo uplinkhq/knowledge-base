@@ -1,30 +1,27 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+/* stylelint-disable docusaurus/copyright-header */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary:                   #e9664c;
+  --ifm-color-primary-dark:              #e33f1f; /* darken primary by 8% */
+  --ifm-color-primary-darker:            #b83117; /* darken primary by 16% */
+  --ifm-color-primary-darkest:           #8b2511; /* darken primary by 24% */
+  --ifm-color-primary-light:             #ef8d79; /* lighten primary by 8% */
+  --ifm-color-primary-lighter:           #f4b4a7; /* lighten primary by 16% */
+  --ifm-color-primary-lightest:          #fadad4; /* lighten primary by 24% */
+  --ifm-code-font-size:                  95%;
+  --ifm-font-size-base:                  18px;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+.iframely-embed {
+  margin-bottom: var(--ifm-leading);
+}
+
+article header h1,
+article header h2 {
+  font-size: 2.5rem !important;
+}
+
+article video {
+  max-height: 800px;
 }
