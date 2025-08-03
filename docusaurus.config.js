@@ -4,7 +4,7 @@ import rehypeCloudinaryDocusaurus from "rehype-cloudinary-docusaurus";
 /** @type {import("@docusaurus/types").Config} */
 const config = {
   title: "Uplink Knowledge Base",
-  // favicon: "images/favicon.ico",
+  favicon: "images/favicon.ico",
 
   url: "https://uplink.tech",
   baseUrl: "/knowledge-base/",
