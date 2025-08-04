@@ -43,6 +43,16 @@ const config = {
     ]
   ],
 
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true
+      })
+    ]
+  ],
+
   themeConfig:
     /** @type {import("@docusaurus/preset-classic").ThemeConfig} */
     ({
@@ -110,11 +120,6 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula
-      },
-      algolia: {
-        appId: "K9RDB6VV79",
-        apiKey: process.env.ALGOLIA_API_KEY,
-        indexName: "uplink"
       }
     })
 }
