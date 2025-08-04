@@ -113,7 +113,7 @@ const config = {
       },
       algolia: {
         appId: "K9RDB6VV79",
-        apiKey: "dummy",
+        apiKey: process.env.ALGOLIA_API_KEY,
         indexName: "uplink"
       }
     })
