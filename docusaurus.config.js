@@ -48,7 +48,8 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
-        hashed: true
+        hashed: true,
+        language: ["de", "en"]
       })
     ]
   ],
