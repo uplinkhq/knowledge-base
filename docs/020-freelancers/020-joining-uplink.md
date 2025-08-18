@@ -1,13 +1,14 @@
 # 🤗 Mitglied werden
 
-Membership in Uplink is free and the only way to join is to [apply via our website](https://uplink.tech/en#apply).
+Die Mitgliedschaft bei Uplink ist kostenlos und du kannst dich ganz einfach [auf unserer Website bewerben](https://uplink.tech/freelancers#apply).
 
-We check all new applications every couple of days and either create an account (in which case you will receive a welcome email and a separate invite email to our Slack workspace) or send you a mail with follow-up questions.
+Wir prüfen alle neuen Bewerbungen innerhalb weniger Tage. Du bekommst dann entweder eine Willkommens-E-Mail und eine separate Einladung für unseren [Community Slack](060-community-slack.md), oder wir melden uns per E-Mail mit Rückfragen, wenn noch etwas unklar ist.
 
-## Requirements
+## Voraussetzungen
 
-Uplink is a network of Germany-based IT freelancers, so the requirements are:
+Uplink ist ein Netzwerk für IT-Freelancer in der DACH Region.<br/>
+Voraussetzungen für eine Mitgliedschaft sind daher:
 
-* You are based in Germany, or you have definite plans to move here within the next few months.
-* You are a freelancer. It doesn't matter whether you are simply selbstständig, have your own UG/GmbH or have a company with a couple of colleagues. We don't accept agencies with more than a few people, though.
-* You work in IT. The most common roles of our members are Software Developer, DevOps Engineer,  Interim-CTO, Data Scientist, Scrum Master, or Agile Coach.
+* Dein permanenter Wohnsitz liegt in Deutschland, Österreich oder der Schweiz.
+* Du bist Freelancer - es spielt dabei keine Rolle, ob du selbstständig bist oder eine eigene UG oder GmbH hast. Auch kleine Freelancer-Teams, die unter einem eigenen Namen auftreten, sind herzlich willkommen! Wir akzeptieren jedoch keine "echten" Agenturen oder Dienstleister.
+* Du arbeitest im IT-Bereich. Diesen definieren wir allerdings recht weit - neben klassischen Tech Rollen sind auch Designer, Marketeers und "Product" Menschen bei uns willkommen.

@@ -1,13 +1,14 @@
 # 🤗 Joining Uplink
 
-Membership in Uplink is free and the only way to join is to [apply via our website](https://uplink.tech/en#apply).
+Membership in Uplink is free and you can easily [apply via our website](https://uplink.tech/freelancers#apply).
 
-We check all new applications every couple of days and either create an account (in which case you will receive a welcome email and a separate invite email to our Slack workspace) or send you a mail with follow-up questions.
+We review all new applications within a few days. You'll then either receive a welcome email and a separate invitation to our [Community Slack](060-community-slack.md), or we'll contact you via email with follow-up questions if anything needs clarification.
 
 ## Requirements
 
-Uplink is a network of Germany-based IT freelancers, so the requirements are:
+Uplink is a network for IT freelancers in the DACH region.<br/>
+Requirements for membership are therefore:
 
-* You are based in Germany, or you have definite plans to move here within the next few months.
-* You are a freelancer. It doesn't matter whether you are simply selbstständig, have your own UG/GmbH or have a company with a couple of colleagues. We don't accept agencies with more than a few people, though.
-* You work in IT. The most common roles of our members are Software Developer, DevOps Engineer,  Interim-CTO, Data Scientist, Scrum Master, or Agile Coach.
+* Your permanent residence is in Germany, Austria, or Switzerland.
+* You are a freelancer - it doesn't matter whether you're self-employed or have your own UG or GmbH. Small freelancer teams operating under their own name are also very welcome! However, we don't accept "real" agencies or service providers.
+* You work in the IT field. We define this quite broadly though - in addition to classic tech roles, designers, marketers, and "product" people are also welcome with us.
