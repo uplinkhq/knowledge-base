@@ -36,6 +36,7 @@ const config = {
             ]
           ].filter(Boolean)
         },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css"
         }
