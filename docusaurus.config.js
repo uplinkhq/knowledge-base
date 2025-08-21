@@ -65,11 +65,9 @@ const config = {
         respectPrefersColorScheme: true
       },
       navbar: {
-        // title: "My Site",
         logo: {
           alt: "Uplink",
           src: "images/logo.png",
-          // href: "https://uplink.tech/", // Set explicitly, otherwise "/" is assumed and a broken link error is thrown.
           target: "_self"
         },
         items: [
