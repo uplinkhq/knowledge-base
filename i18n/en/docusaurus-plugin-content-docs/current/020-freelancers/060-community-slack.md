@@ -1,4 +1,4 @@
-# 💬 Community Slack {#community-slack}
+# 💬 Community Slack
 
 Unser Community Slack ist der Dreh- und Angelpunkt aller Aktivitäten bei Uplink. Hier posten wir alle neuen Jobs und offizielle Ankündigungen und News, und unsere Community-Mitglieder unterhalten sich in öffentlichen Channels zu allen möglichen Themen rund ums Freelancing, aber auch zu Finanzen, Gesundheit, Events und vielem anderen.
 
