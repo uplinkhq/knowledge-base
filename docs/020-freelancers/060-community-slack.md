@@ -4,7 +4,13 @@ Unser Community Slack ist der Dreh- und Angelpunkt aller Aktivitäten bei Uplink
 
 Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fantastische "Schaltzentrale" erwiesen, in der alle Fäden zusammenlaufen. Alle neuen Uplink-Mitglieder erhalten automatisch eine Einladung in den Community Slack.
 
-In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-Channels**.
+## Identität & Vertrauen {#identity-trust}
+
+Für eine aktive Teilnahme in unserem Slack solltest du dein Profil vollständig ausfüllen. Verwende idealerweise deinen vollständigen Namen und lade ein Foto von dir hoch. Verwende nicht den Namen deiner Firma oder ein Firmenlogo als Profilbild.
+
+Die Uplink-Community ist keine offene Plattform, an der jeder anonym teilnehmen kann - jedes Mitglied wurde individuell geprüft und als Selbständige:r verifiziert. Da in der Community auch sehr persönliche Themen besprochen werden, basiert unser Zusammenhalt auf gegenseitigem Vertrauen und Transparenz darüber, wer Teil der Gemeinschaft ist.
+
+In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-Channels**:
 
 ## Öffentliche Channels {#public-channels}
 
