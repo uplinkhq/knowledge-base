@@ -6,7 +6,7 @@ Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fa
 
 ## Identität & Vertrauen {#identity-trust}
 
-Für eine aktive Teilnahme in unserem Slack solltest du dein Profil vollständig ausfüllen. Verwende idealerweise deinen vollständigen Namen und lade ein Foto von dir hoch. Verwende nicht den Namen deiner Firma oder ein Firmenlogo als Profilbild.
+Für eine aktive Teilnahme in unserem Slack solltest du dein Profil vollständig ausfüllen. Verwende idealerweise deinen vollständigen Namen und lade ein Foto von dir hoch. Vermeide dagegen den Namen deiner Firma oder ein Firmenlogo als Profilbild.
 
 Die Uplink-Community ist keine offene Plattform, an der jeder anonym teilnehmen kann - jedes Mitglied wurde individuell geprüft und als Selbständige:r verifiziert. Da in der Community auch sehr persönliche Themen besprochen werden, basiert unser Zusammenhalt auf gegenseitigem Vertrauen und Transparenz darüber, wer Teil der Gemeinschaft ist.
 
