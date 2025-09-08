@@ -26,6 +26,8 @@ const config = {
           sidebarPath: "./sidebars.js",
           editUrl: "https://github.com/uplinkhq/knowledge-base/tree/main/",
           editLocalizedFiles: true,
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           rehypePlugins: [
             process.env.NODE_ENV === "production" && [
               rehypeCloudinaryDocusaurus,
