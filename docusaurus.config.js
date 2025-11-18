@@ -9,7 +9,6 @@ const config = {
   url: "https://uplink.tech",
   baseUrl: "/knowledge-base/",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
 
   i18n: {
     defaultLocale: "de",
