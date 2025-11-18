@@ -28,6 +28,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/types": "3.9.2",
+    "docusaurus-plugin-llms": "^0.2.2",
     "wrangler": "^4.27.0"
   },
   "browserslist": {

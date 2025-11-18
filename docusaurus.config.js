@@ -43,6 +43,10 @@ const config = {
     ]
   ],
 
+  plugins: [
+    "docusaurus-plugin-llms"
+  ],
+
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
