@@ -7,7 +7,9 @@ Here we collect some resources from the [Community Slack](060-community-slack.md
 If you are looking for platforms or recruiters where you can set up an online profile or upload your CV to make yourself more visible, take a look at these options:
 
 * [Bizforward](https://bizforward.de/freelancer-sign-up/)
+* [Bosch Legends Lab](https://boschlegendslab.com/profile/)
 * [Computer Futures](https://www.computerfutures.com/de-de/lebenslauf-hochladen/)
+* [Etengo](https://my.etengo.de)
 * [Freelancermap](https://www.freelancermap.de/)
 * [Hays](https://www.hays.de/personaldienstleister/cv-upload)
 * [Kroongard](https://crm.krongaard.de/application/applicantRegisterCvAnalyzerGenerator/upload/0?page_lang=de)
@@ -15,8 +17,14 @@ If you are looking for platforms or recruiters where you can set up an online pr
 * [Michael Page](https://www.michaelpage.de/senden-sie-ihren-lebenslauf)
 * [Percision](https://www.percision.de/fuer-it-experten/)
 * [Progressive](https://www.progressiverecruitment.com/de-de/lebenslauf-hochladen/)
-* [Software Xperts](https://www.sw-xperts.com/)
-* [Somi](https://somi.de/)
+* [Software Xperts](https://www.sw-xperts.com/jobs-projekte/offene-jobs-und-projekte/initiativbewerbung)
+* [Solcom](https://www.solcom.de/de/projektportal)
+* [Somi](https://somi.de/register)
+* [top itservices](https://top-itservices.com/fuer-bewerber/topportal)
+* [Varius](https://varius.skillselect.de/public/account/login_form.php?language=de&tab=b)
+* [Windhoff Group](https://freelancing.windhoff-group.de/formular-freelancer/)
+
+You can find an overview of all recruiters active in the DACH region and their ratings on the Uplink satellite page [Recruiter Rodeo](https://recruiter.rodeo).
 
 ## Additions and changes
 
