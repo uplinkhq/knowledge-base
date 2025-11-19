@@ -4,7 +4,7 @@ Here we collect some resources from the [Community Slack](060-community-slack.md
 
 ## Where can I create a profile and upload my CV?
 
-If you are looking for platforms or recruiters where you can set up an online profile or upload your CV to make yourself more visible, take a look at these options:
+If you are looking for platforms or recruiters where you can set up an online profile, research for recruiters or upload your CV to make yourself more visible, take a look at these options:
 
 * [Bizforward](https://bizforward.de/freelancer-sign-up/)
 * [Computer Futures](https://www.computerfutures.com/de-de/lebenslauf-hochladen/)
@@ -17,6 +17,18 @@ If you are looking for platforms or recruiters where you can set up an online pr
 * [Progressive](https://www.progressiverecruitment.com/de-de/lebenslauf-hochladen/)
 * [Software Xperts](https://www.sw-xperts.com/)
 * [Somi](https://somi.de/)
+* [Somi Registration](https://somi.de/regist/create2)
+* [Software Xperts Application Portal](https://my.sw-xperts.com/application/applicantRegisterCvAnalyzerGenerator/upload/0?page_lang=de)
+* [Recruiter Rodeo](https://recruiter.rodeo)
+* [Bestcruiter](https://www.bestcruiter.com)
+* [Etengo](https://my.etengo.de)
+* [Bosch Legends Lab](https://boschlegendslab.com/profile/)
+* [Top IT Services](https://top-itservices.com/fuer-bewerber/topportal)
+* [Varius Skillselect](https://varius.skillselect.de/public/account/login_form.php?language=de&tab=b)
+* [Solcom Projektportal](https://www.solcom.de/de/projektportal)
+* [Windhoff Group Freelancing](https://freelancing.windhoff-group.de)
+* [Ferchau](https://touch.ferchau.com/de/de/registrieren#register)
+
 
 ## Additions and changes
 
