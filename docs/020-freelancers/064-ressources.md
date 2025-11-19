@@ -20,7 +20,6 @@ Wenn du nach Plattformen oder Recruitern sucht, bei denen du online ein Profil e
 * [Software Xperts](https://www.sw-xperts.com/jobs-projekte/offene-jobs-und-projekte/initiativbewerbung)
 * [Solcom](https://www.solcom.de/de/projektportal)
 * [Somi](https://somi.de/register)
-* [top itservices](https://top-itservices.com/fuer-bewerber/topportal)
 * [Varius](https://varius.skillselect.de/public/account/login_form.php?language=de&tab=b)
 * [Windhoff Group](https://freelancing.windhoff-group.de/formular-freelancer/)
 
