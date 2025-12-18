@@ -24,7 +24,7 @@ Ideally, the candidate should have completed several jobs with the required tech
 
 ### The importance of a convincing CV
 
-Our assessment of a candidate’s expertise is based on a lot of factors: the job application, CV, online profiles (portfolio website, XING, LinkedIn, GitHub etc.), feedback from previous engagements via Uplink etc.
+Our assessment of a candidate’s expertise is based on a lot of factors: the job application, CV, online profiles (portfolio website, LinkedIn, GitHub etc.), feedback from previous engagements via Uplink etc.
 
 **Once we introduce a candidate to a client, though, the reality is that most of the time, it’s the CV that plays the biggest role in the client's decision whether to talk to the candidate or not.** For that reason, it’s really important that the CV accurately reflects the candidate’s current skills and experience, especially in regards to the client’s job.
 
