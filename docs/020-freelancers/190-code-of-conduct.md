@@ -30,7 +30,7 @@ Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am best
 
 ### Vermeide Werbung
 
-Das Bewerbung von eigenen Projekten, Produkten oder Angeboten (unabhängig davon, ob sie bezahlt oder kostenlos sind), ist nur im Slack-Channel [#promotion](https://uplink.tech/slack/promotion) erwünscht. Dort können auch LinkedIn-Beiträge gepostet werden, die man promoten möchte. [#indiehackers](https://uplink.tech/slack/indiehackers) hingegen ist der passende Channel, wenn du für ein eigenes Projekt Feedback suchst, z.B. zu technischen Themen oder Marketing. In den anderen Channels ist Werbung nicht erwünscht.
+Die Bewerbung von eigenen Projekten, Produkten oder Angeboten (unabhängig davon, ob sie bezahlt oder kostenlos sind), ist nur im Slack-Channel [#promotion](https://uplink.tech/slack/promotion) erwünscht. Dort können auch LinkedIn-Beiträge gepostet werden, die man promoten möchte. [#indiehackers](https://uplink.tech/slack/indiehackers) hingegen ist der passende Channel, wenn du für ein eigenes Projekt Feedback suchst, z.B. zu technischen Themen oder Marketing. In den anderen Channels ist Werbung nicht erwünscht.
 
 ### Vermeide "Agenda Pushing"
 
@@ -76,4 +76,4 @@ Es gilt: Rechtsextremismus ist keine Meinung. Die Gleichwertigkeit aller Mensche
 
 ## Reporting & Feedback
 
-Wenn du der Meinung bist, dass jemand aus der Community gegen den Code of Conduct verstoßen hat, melde dich bitte [per E-Mai](mailto:hello@uplink.tech) oder wende dich im Slack an einen der [Guides](025-guides.md).
+Wenn du der Meinung bist, dass jemand aus der Community gegen den Code of Conduct verstoßen hat, melde dich bitte [per E-Mail](mailto:hello@uplink.tech) oder wende dich im Slack an einen der [Guides](025-guides.md).
