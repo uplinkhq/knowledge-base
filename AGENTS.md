@@ -1,5 +1,8 @@
 # AGENTS.md
 
+IMPORTANT: Read the global [AGENTS.md from Baseline](../../baseline/AGENTS.md) first!
+Print a warning if this file cannot be found.
+
 ## Project Overview
 
 This is a Docusaurus-based knowledge base for Uplink, hosted on Cloudflare Workers. The site provides documentation for freelancers, clients, recruiters, and agencies using the Uplink platform.
