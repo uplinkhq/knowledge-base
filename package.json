@@ -20,6 +20,8 @@
     "@easyops-cn/docusaurus-search-local": "^0.52.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "node-addon-api": "^8.5.0",
+    "node-gyp": "^12.2.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -28,7 +30,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
     "@docusaurus/types": "3.9.2",
-    "docusaurus-plugin-llms": "^0.2.2",
+    "docusaurus-plugin-llms": "^0.3.0",
     "wrangler": "^4.27.0"
   },
   "browserslist": {
@@ -44,6 +46,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=24.0"
   }
 }
