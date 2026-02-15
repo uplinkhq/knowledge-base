@@ -10,5 +10,5 @@ Uplink ist ein Netzwerk für IT-Freelancer in der DACH Region.<br/>
 Voraussetzungen für eine Mitgliedschaft sind daher:
 
 * Dein permanenter Wohnsitz liegt in Deutschland, Österreich oder der Schweiz.
-* Du bist Freelancer - es spielt dabei keine Rolle, ob du selbstständig bist oder eine eigene UG oder GmbH hast. Auch kleine Freelancer-Teams, die unter einem eigenen Namen auftreten, sind herzlich willkommen! Wir akzeptieren jedoch keine "echten" Agenturen oder Dienstleister.
+* Du bist Freelancer - es spielt dabei keine Rolle, ob du Freiberufler oder Gewerbetreibender bist oder eine eigene UG oder GmbH hast. Auch kleine Freelance-Teams, die unter einem gemeinsamen Firmennamen auftreten, sind herzlich willkommen! Wir akzeptieren jedoch keine "echten" Agenturen oder Dienstleister.
 * Du arbeitest im IT-Bereich. Diesen definieren wir allerdings recht weit - neben klassischen Tech Rollen sind auch Designer, Marketeers und "Product" Menschen bei uns willkommen.
