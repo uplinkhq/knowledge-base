@@ -1,143 +1,142 @@
 # 💬 Community Slack
 
-Unser Community Slack ist der Dreh- und Angelpunkt aller Aktivitäten bei Uplink. Hier posten wir alle neuen Jobs und offizielle Ankündigungen und News, und unsere Community-Mitglieder unterhalten sich in öffentlichen Channels zu allen möglichen Themen rund ums Freelancing, aber auch zu Finanzen, Gesundheit, Events und vielem anderen.
+Our Community Slack is the central hub for everything happening at Uplink. It's where we post all new jobs and official announcements, and where our community members chat about all things freelancing — as well as finance, health, events, and much more.
 
-Man kann Slack lieben oder hassen, aber für unsere Community hat es sich als fantastische "Schaltzentrale" erwiesen, in der alle Fäden zusammenlaufen. Alle neuen Uplink-Mitglieder erhalten automatisch eine Einladung in den Community Slack.
+You can love or hate Slack, but it has proven to be a fantastic hub for our community where everything comes together. All new Uplink members automatically receive an invitation to the Community Slack.
 
-## Identität & Vertrauen {#identity-trust}
+## Identity & trust {#identity-trust}
 
-Für eine aktive Teilnahme in unserem Slack solltest du dein Profil vollständig ausfüllen. Verwende idealerweise deinen vollständigen Namen und lade ein Foto von dir hoch. Vermeide dagegen den Namen deiner Firma oder ein Firmenlogo als Profilbild.
+To participate actively in our Slack, please fill out your profile completely. Ideally, use your full name and upload a photo of yourself. Avoid using your company name or a company logo as your profile picture.
 
-Die Uplink-Community ist keine offene Plattform, an der jeder anonym teilnehmen kann - jedes Mitglied wurde individuell geprüft und als Selbständige:r verifiziert. Da in der Community auch sehr persönliche Themen besprochen werden, basiert unser Zusammenhalt auf gegenseitigem Vertrauen und Transparenz darüber, wer Teil der Gemeinschaft ist.
+The Uplink community is not an open platform where anyone can join anonymously — every member has been individually vetted and verified as a freelancer. Since the community also covers very personal topics, our cohesion is built on mutual trust and transparency about who is part of the group.
 
-In unserem Slack findest du eine Reihe von **öffentlichen Channels** und **Job-Channels**:
+In our Slack, you'll find a number of **public channels** and **job channels**:
 
-## Öffentliche Channels {#public-channels}
+## Public channels {#public-channels}
 
-In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedenen Themen austauschen:
+These channels are where you can connect and chat with other Uplink members on a variety of topics:
 
-* **[#announcements](https://uplink.tech/slack/announcements)** Offizielle Nachrichten vom Uplink-Team. Nur Admins können in diesem Channel posten, aber alle Mitglieder können (und sollen! 😄) die Nachrichten in Threads kommentieren!
-* **[#business](https://uplink.tech/slack/business)** - Fragen und Unterhaltungen zu allen Business-Themen rund ums Freelancing - Kunden, Verträge, Finanzen, Versicherungen, Registrierung als Freiberufler, Firmengründung usw. Auch Fragen von "Neulingen" werden gerne beantwortet!
-* **[#taxes](https://uplink.tech/slack/taxes)** - Steuerthemen werden in diesem Channel besprochen - wo finde ich einen Steuerberater, welche Steuersoftware ist die beste, welches Firmenkonstrukt ist steuerlich vorteilhaft, etc.
-* **[#events](https://uplink.tech/slack/events)** - Organisierst du ein Event, Meetup oder eine Konferenz oder planst du, daran teilzunehmen? Dann lass es die anderen Uplink-Mitglieder wissen!
-* **[#ideas](https://uplink.tech/slack/ideas)** - Poste deine Nebenprojekte oder Ideen hier, um Feedback zu bekommen!
-* **[#investing](https://uplink.tech/slack/investing)** - Hier geht es darum, wo man als Freelancer sein hart verdientes Geld invstieren kann - Aktien, ETFs, Crypto, etc.
-* **[#uplink](https://uplink.tech/slack/uplink)** - In diesem Channel kannst du dem Uplink-Team Ideen für neue Features mitteilen oder auch einen Bug reporten. In unregelmäßigen Abständen fragt das Uplink-Team hier auch selbst nach Feedback zu neuen Ideen und Features.
-* **[#lounge](https://uplink.tech/slack/lounge)** - Alles, was in die Kategorie "offtopic" gehört, also nicht direkt mit der Arbeit als IT-Freelancer zu tun hat.
-* **[#agile](https://uplink.tech/slack/agile)** - Diskussionen zum Thema Agile, SCRUM und agiles Projektmanagement.
-* **[#adventofcode](https://uplink.tech/slack/adventofcode)** Der [Advent of Code](https://adventofcode.com/) findet jedes Jahr im Dezember statt! In diesem Channel werden Lösungen verglichen und automatisch Updates zum Uplink-Leaderboard gepostet.
-* **[#lang-rust](https://uplink.tech/slack/lang-rust)** - Alles zur Programmiersprache Rust.
-* **[#tech-backend](https://uplink.tech/slack/tech-backend), [#tech-frontend](https://uplink.tech/slack/tech-frontend), [#tech-security](https://uplink.tech/slack/tech-security)** und alle weiteren Channels, die mit "tech" beginnen, sind Fragen, Diskussionen und News zu einem spezifischen Tech-Thema gewidmet.
-* **[#tech-general](https://uplink.tech/slack/tech-general)** - Alle generellen "Tech" Fragen, die nicht in einen spezifischen #tech Channel (s.o.) passen.
-* **[#city-berlin](https://uplink.tech/slack/city-berlin), [#city-hamburg](https://uplink.tech/slack/city-hamburg)** und alle weiteren Channels, die mit "city" beginnen, sind Fragen und Diskussionen zu einer bestimmten Stadt gewidmet, z.B. zur lokalen IT-Szene, Events, Coworking-Spaces, etc.
-* **[#rhein-ruhr](https://uplink.tech/slack/rhein-ruhr)** Connecte dich mit anderen Bewohnern der Metropolregion Rhein-Ruhr und tausch dich zur lokalen IT- und Freelancing-Szene, Events, Coworking-Spaces, usw. aus
-* **[#marketplace](https://uplink.tech/slack/marketplace)** - Dies ist der richtige Channel für den Kauf und Verkauf von  Hardware, Software, Bürozubehör, oder ähnlichem.
-* **[#fun](https://uplink.tech/slack/fun)** - Deine tägliche Dosis FUN bekommst du hier - idiotische Recruiter-Anfragen, Kunden FAILs, Witze, Memes,...
-* **[#climate](https://uplink.tech/slack/climate)** - Hier darfst du über Themen sprechen wie Klimawandel, ClimateTech/GreenTech startups, "Green IT", die Verkehrswende, und Möglichkeiten, einen positiven Einfluss auf das Klima zu haben.
-* **[#health](https://uplink.tech/slack/health)** - Hier geht es um deine mentale und physiche Gesundheit - Workouts, Gesundheit am Arbeitsplatz, Meditation, Stressvermeidung und Burnout
-* **[#running-berlin](https://uplink.tech/slack/running-berlin)** - In diesem Channel kannst du dich mit anderen Läufern aus Berlin austauschen.
-* **[#freelance-unlocked-conference](https://uplink.tech/slack/freelance-unlocked-conference)** - Hier findest du alle Infos zur jährlich stattfindenden ["Freelance Unlocked" Konferenz](https://www.freelanceunlocked.com/).
-* **[#webinars](https://uplink.tech/slack/webinars)** - Join this channel to be notified when one of our [webinars](https://uplink.tech/en/webinars) starts, to ask questions for the Q&A part of a webinar and to discuss ideas and topics for new webinars.
-* **[#linkedin-farming](https://uplink.tech/slack/linkedin-farming)** - Hier kannst du ungeniert Links zu deinen LinkedIn-Posts posten, um etwas Engagement zu generieren. Vergiss nicht, auch andere Posts mit einem Like zu beglücken!
-* **[#indiehackers](https://uplink.tech/slack/indiehackers)** - Hast du ein Nebenprojekt oder ein Startup, zu dem du Feedback suchst, z.B. zu technischen Themen oder Marketing? Dies ist der richtige Channel dafür!
+* **[#announcements](https://uplink.tech/slack/announcements)** - Official news from the Uplink team. Only admins can post here, but all members can (and should! 😄) comment on posts in threads!
+* **[#business](https://uplink.tech/slack/business)** - Questions and discussions about all things freelance business — clients, contracts, finances, insurance, registering as a freelancer, incorporating a company, and more. Newcomer questions are always welcome!
+* **[#taxes](https://uplink.tech/slack/taxes)** - All things taxes — finding an accountant, best tax software, tax-efficient company structures, etc.
+* **[#events](https://uplink.tech/slack/events)** - Organizing an event, meetup, or conference — or planning to attend one? Let the other Uplink members know!
+* **[#ideas](https://uplink.tech/slack/ideas)** - Post your side projects or ideas to get feedback!
+* **[#investing](https://uplink.tech/slack/investing)** - Where to invest your hard-earned freelancer money — stocks, ETFs, crypto, etc.
+* **[#uplink](https://uplink.tech/slack/uplink)** - Share feature ideas or report bugs to the Uplink team. From time to time, the team also asks for feedback on new ideas and features here.
+* **[#lounge](https://uplink.tech/slack/lounge)** - Everything off-topic — anything not directly related to IT freelancing.
+* **[#agile](https://uplink.tech/slack/agile)** - Discussions about Agile, Scrum, and agile project management.
+* **[#adventofcode](https://uplink.tech/slack/adventofcode)** - The [Advent of Code](https://adventofcode.com/) takes place every December! This channel is for comparing solutions and posting automatic updates from the Uplink leaderboard.
+* **[#lang-rust](https://uplink.tech/slack/lang-rust)** - All about the Rust programming language.
+* **[#tech-backend](https://uplink.tech/slack/tech-backend), [#tech-frontend](https://uplink.tech/slack/tech-frontend), [#tech-security](https://uplink.tech/slack/tech-security)** and all other channels starting with "tech" are dedicated to questions, discussions, and news about a specific tech topic.
+* **[#tech-general](https://uplink.tech/slack/tech-general)** - General tech questions that don't fit into a specific #tech channel (see above).
+* **[#city-berlin](https://uplink.tech/slack/city-berlin), [#city-hamburg](https://uplink.tech/slack/city-hamburg)** and all other channels starting with "city" are for questions and discussions about a specific city — local IT scene, events, coworking spaces, etc.
+* **[#rhein-ruhr](https://uplink.tech/slack/rhein-ruhr)** - Connect with other members in the Rhine-Ruhr metropolitan area and discuss the local IT and freelancing scene, events, coworking spaces, and more.
+* **[#marketplace](https://uplink.tech/slack/marketplace)** - The place to buy and sell hardware, software, office equipment, and similar items.
+* **[#fun](https://uplink.tech/slack/fun)** - Your daily dose of fun — clueless recruiter messages, client fails, jokes, memes, ...
+* **[#climate](https://uplink.tech/slack/climate)** - Discuss climate change, ClimateTech/GreenTech startups, "Green IT", the mobility transition, and ways to make a positive impact on the climate.
+* **[#health](https://uplink.tech/slack/health)** - All about your mental and physical health — workouts, workplace wellness, meditation, stress prevention, and burnout.
+* **[#running-berlin](https://uplink.tech/slack/running-berlin)** - Connect with other runners in Berlin.
+* **[#freelance-unlocked-conference](https://uplink.tech/slack/freelance-unlocked-conference)** - Everything about the annual ["Freelance Unlocked" conference](https://www.freelanceunlocked.com/).
+* **[#webinars](https://uplink.tech/slack/webinars)** - Join this channel to be notified when one of our [webinars](https://uplink.tech/en/webinars) starts, to ask questions during the Q&A, and to discuss ideas and topics for new webinars.
+* **[#linkedin-farming](https://uplink.tech/slack/linkedin-farming)** - Post links to your LinkedIn posts here to drum up some engagement. Don't forget to like other people's posts too!
+* **[#indiehackers](https://uplink.tech/slack/indiehackers)** - Have a side project or startup and looking for feedback, e.g. on technical topics or marketing? This is the right channel!
 
-## Job-Channels {#job-channels}
+## Job channels {#job-channels}
 
-Jedes Mal, wenn bei Uplink ein neuer Job veröffentlicht wird, wird er in einem oder mehreren Job-Channels gepostet. Jeder Job-Channel ist speziell für Jobs aus einer oder mehreren Kategorien. [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) werden dabei in separaten Channels gepostet. Alle Mitglieder, die den Job-Channels beitreten, bekommen bei jedem neuen Job eine [Benachrichtigung](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) und können sich dann darüber für den Job bewerben.
+Whenever a new job is published on Uplink, it gets posted to one or more job channels. Each job channel covers jobs from one or more categories. [Direct jobs](040-direct-jobs.md) and [recruiter jobs](050-recruiter-jobs.md) are posted in separate channels. All members who join job channels receive a [notification](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications) for each new job and can then apply through the channel.
 
-Durch die Job-Channels kannst du dir als Mitglied genau aussuchen, über welche Jobs du informiert werden und welche du ignorieren möchtest! Wenn du z.B. nur über Direktjobs mit Fokus auf Frontend oder Marketing informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** und **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** bei.
+Job channels let you choose exactly which jobs you want to hear about and which ones to skip! For example, if you only want to see direct jobs focused on frontend or marketing, just join **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** and **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)**.
 
-:::info Achtung
+:::info Heads up
 
-Nicht jede Job-Kategorie hat einen dedizierten Job-Channel! Jobs aus einer Kategorie ohne eigenen Job-Channel werden nur in #jobs-direct bzw. #jobs-recruiter gepostet. Wenn du also keinen Job verpassen willst, tritt einfach diesen beiden Channels bei.
-
-:::
-
-Wenn du dich hingegen nur für Jobs mit speziellen Skills, z.B. PHP im Backend oder React Native im Frontend interessierst, lege dir [im Mitgliederbereich eine Jobsuche](110-member-area.md#job-search) für diese Skills an! So wirst du bei jedem passenden Job direkt per E-Mail benachrichtigt.
-
-Diese Job-Channels gibt es bei Uplink:
-
-### Alle Jobs {#job-channels-all}
-
-In diesen Channels werden alle Direkt- oder Recruiter-Jobs veröffentlicht:
-
-* **[#jobs-direct](https://uplink.tech/slack/jobs-direct)** - Alle Direktjobs
-* **[#jobs-recruiter](https://uplink.tech/slack/jobs-recruiter)** - Alle Recruiter-Jobs
-
-### Direktjobs nach Kategorie {#job-channels-direct}
-
-In diesen Channels werden Direktjobs je nach Kategorie veröffentlicht.
-
-* **[#jobs-direct-backend](https://uplink.tech/slack/jobs-direct-backend)** - Direktjobs mit Backend-Fokus, e.g. PHP, Python, Ruby etc.
-* **[#jobs-direct-cms-crm-ecommerce](https://uplink.tech/slack/jobs-direct-cms-crm-ecommerce)** - Direktjobs mit Fokus auf CMS, CRM oder E-Commerce, z.B. Wordpress, Salesforce oder Shopify.
-* **[#jobs-direct-design](https://uplink.tech/slack/jobs-direct-design)** - Direktjobs mit Design-Fokus, z.B. UI/UX Design, Branding oder Product Design.
-* **[#jobs-direct-devops-cloud](https://uplink.tech/slack/jobs-direct-devops-cloud)** - Direktjobs mit DevOps/Cloud Fokus, z.B. AWS, GCP oder Azure.
-* **[#jobs-direct-frontend](https://uplink.tech/slack/jobs-direct-frontend)** - Direktjobs mit Frontend-Fokus, z.B. JavaScript, React, Angular oder Vue.js
-* **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** - Direktjobs mit Marketing-Fokus, z.B. SEO/SEA/SEM, E-Mail Marketing oder ASO.
-* **[#jobs-direct-mobile](https://uplink.tech/slack/jobs-direct-mobile)** - Direktjobs mit Mobile-Fokus, z.B. native iOS oder Android, React Native oder Flutter.
-* **[#jobs-direct-pm-consulting-coaching](https://uplink.tech/slack/jobs-direct-pm-consulting-coaching)** - Direktjobs mit Fokus auf Projektmanagement, Consulting oder Coaching.
-* **[#jobs-direct-product](https://uplink.tech/slack/jobs-direct-product)** - Direktjobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Reserach.
-
-### Recruiter-Jobs nach Kategorie {#job-channels-recruiter}
-
-In diesen Channels werden Recruiter-Jobs je nach Kategorie veröffentlicht.
-
-* **[#jobs-recruiter-backend](https://uplink.tech/slack/jobs-recruiter-backend)** - Recruiter-Jobs mit Backend-Fokus, e.g. PHP, Python, Ruby etc.
-* **[#jobs-recruiter-cms-crm-ecommerce](https://uplink.tech/slack/jobs-recruiter-cms-crm-ecommerce)** - Recruiter-Jobs mit Fokus auf CMS, CRM oder E-Commerce, z.B. Wordpress, Salesforce oder Shopify.
-* **[#jobs-recruiter-design](https://uplink.tech/slack/jobs-recruiter-design)** - Recruiter-Jobs mit Design-Fokus, z.B. UI/UX Design, Branding oder Product Design.
-* **[#jobs-recruiter-devops-cloud](https://uplink.tech/slack/jobs-recruiter-devops-cloud)** - Recruiter-Jobs mit DevOps/Cloud Fokus, z.B. AWS, GCP oder Azure.
-* **[#jobs-recruiter-frontend](https://uplink.tech/slack/jobs-recruiter-frontend)** - Recruiter-Jobs mit Frontend-Fokus, z.B. JavaScript, React, Angular oder Vue.js
-* **[#jobs-recruiter-marketing](https://uplink.tech/slack/jobs-recruiter-marketing)** - Recruiter-Jobs mit Marketing-Fokus, z.B. SEO/SEA/SEM, E-Mail Marketing oder ASO.
-* **[#jobs-recruiter-mobile](https://uplink.tech/slack/jobs-recruiter-mobile)** - Recruiter-Jobs mit Mobile-Fokus, z.B. native iOS oder Android, React Native oder Flutter.
-* **[#jobs-recruiter-pm-consulting-coaching](https://uplink.tech/slack/jobs-recruiter-pm-consulting-coaching)** - Recruiter-Jobs mit Fokus auf Projektmanagement, Consulting oder Coaching.
-* **[#jobs-recruiter-product](https://uplink.tech/slack/jobs-recruiter-product)** - Recruiter-Jobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Reserach.
-* **[#jobs-recruiter-qa-testing](https://uplink.tech/slack/jobs-recruiter-qa-testing)** - Recruiter-Jobs mit Fokus auf QA/Testing
-* **[#jobs-recruiter-sap](https://uplink.tech/slack/jobs-recruiter-sap)** - Recruiter-Jobs mit SAP-Fokus
-
-### Community Jobs {#community-jobs}
-
-**Die besten Empfehlungen kommen aus der Community!**
-
-Wer z.B. bei einem Kunden im Einsatz ist und davon hört, dass ein weiterer Freelancer gesucht wird, sucht oft gerne einen Kandidaten im eigenen Netzwerk, weil man dort auf bereits bekannte, vertrauenswürdige und kompetente Kontakte zurückgreifen kann. So profitieren alle: der Kunde bekommt schnell Unterstützung, der Freelancer aus der Community erhält eine neue Jobchance, und der Empfehlende stärkt seine Beziehung zum Kunden und zur Community.
-
-Genau dafür haben wir den Channel **[#community-jobs](https://uplink.tech/slack/community-jobs)** ins Leben gerufen!
-
-Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) posten, können in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
-Auch der weitere Prozess ist nicht automatisiert wie in den Job-Channels, d.h. es ist der Verfasser:in des Posts überlassen, die Bewerbungen zu bearbeiten bzw. weiterzuleiten und Feedback zu geben.
-
-Es gibt allerdings einige Regeln zu beachten:
-
-* Beschreibe die Anfrage so konkret wie möglich (inkl. erforderlicher Skills, Onsite/Remote, etc.), aber achte trotzdem bitte darauf, dass der Post nicht zu lang wird.
-* Wenn du einen längeren Text posten möchtest (z.B. die Projektbeschreibung eines Recruiters), poste bitte zuerst eine kurze Zusammenfassung und den längeren Text als ersten Kommentar im Thread.
-* Wenn du selbst an der Vermittlung etwas verdienst, erwähne das bitte direkt im Post.
-* Bitte benutze nicht [@channel oder @hier](https://slack.com/intl/de-de/help/articles/202009646-Channels-oder-Workspaces-benachrichtigen)!
-
-:::tip[Diese Jobs dürfen gepostet werden]
-
-* Ein Kunde, bei dem du selbst im Einsatz bist oder warst, sucht einen weiteren Freelancer. Du kannst den Kunden empfehlen und weißt, dass er einen ordentlichen Stundensatz zahlt.
-* Du suchst selbst einen Freelancer, z.B. für dein eigenes Startup oder um dir bei einem privaten Projekt weiterzuhelfen. Sei in diesem Fall bereit, einen marktüblichen Preis zu zahlen, meist 80€-100€/Stunde.
-* Ein Recruiter kontaktiert dich wegen eines Projekts, das interessant klingt, du aber nicht übernehmen kannst oder willst (z.B. aus Kapazitätsgründen oder weil es nicht dein Spezialgebiet ist). In diesem Fall solltest du auf jeden Fall einmal mit dem Recruiter gesprochen haben und die Stundensatz-Range, die für den Endkunden in Frage kommt, geklärt haben. Gib den Stundensatz bitte im Post mit an.
+Not every job category has its own dedicated channel! Jobs in categories without a dedicated channel are only posted in #jobs-direct or #jobs-recruiter. So if you don't want to miss any jobs, simply join both of these channels.
 
 :::
 
-:::danger Diese Jobs sollten nicht gepostet werden
+If you're only interested in jobs with specific skills, e.g. PHP for backend or React Native for mobile, set up a [job search in the member area](110-member-area.md#job-search) for those skills! You'll be notified by email whenever a matching job comes in.
 
-* Anfragen von Recruitern, mit denen du nicht über das Projekt gesprochen hast. Oft stellt sich im Gespräch heraus, dass einige Anforderungen in der Ausschreibung ungenau oder inkorrekt sind, und man kann mehr über den Endkunden erfahren.
-* Recruiter-Anfragen ohne Angabe des Stundensatzes (bzw. einer Range). Wenn diese in der Projektausschreibung nicht erwähnt ist, kann man sie durch eine Nachfrage bzw. ein kurzes Gespräch mit dem Recruiter oder Endkunden erfahren.
-* Poste bitte keine ANÜ-Anfragen. Diese erkennst du, wenn es nicht explizit in der Ausschreibung steht, an einer Projektdauer von 12+ Monaten oder dem Hinweis, dass nur sozialversicherungspflichtig Angestellte für das Projekt in Frage kommen.
-* Poste bitte keine Anfragen für Festanstellungen oder Mitgründer.
+Here are the job channels available on Uplink:
+
+### All jobs {#job-channels-all}
+
+These channels post all direct or recruiter jobs:
+
+* **[#jobs-direct](https://uplink.tech/slack/jobs-direct)** - All direct jobs
+* **[#jobs-recruiter](https://uplink.tech/slack/jobs-recruiter)** - All recruiter jobs
+
+### Direct jobs by category {#job-channels-direct}
+
+These channels post direct jobs filtered by category.
+
+* **[#jobs-direct-backend](https://uplink.tech/slack/jobs-direct-backend)** - Backend-focused direct jobs, e.g. PHP, Python, Ruby, etc.
+* **[#jobs-direct-cms-crm-ecommerce](https://uplink.tech/slack/jobs-direct-cms-crm-ecommerce)** - Direct jobs focused on CMS, CRM, or e-commerce, e.g. WordPress, Salesforce, or Shopify.
+* **[#jobs-direct-design](https://uplink.tech/slack/jobs-direct-design)** - Design-focused direct jobs, e.g. UI/UX design, branding, or product design.
+* **[#jobs-direct-devops-cloud](https://uplink.tech/slack/jobs-direct-devops-cloud)** - DevOps/cloud-focused direct jobs, e.g. AWS, GCP, or Azure.
+* **[#jobs-direct-frontend](https://uplink.tech/slack/jobs-direct-frontend)** - Frontend-focused direct jobs, e.g. JavaScript, React, Angular, or Vue.js.
+* **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** - Marketing-focused direct jobs, e.g. SEO/SEA/SEM, email marketing, or ASO.
+* **[#jobs-direct-mobile](https://uplink.tech/slack/jobs-direct-mobile)** - Mobile-focused direct jobs, e.g. native iOS or Android, React Native, or Flutter.
+* **[#jobs-direct-pm-consulting-coaching](https://uplink.tech/slack/jobs-direct-pm-consulting-coaching)** - Direct jobs focused on project management, consulting, or coaching.
+* **[#jobs-direct-product](https://uplink.tech/slack/jobs-direct-product)** - Product-focused direct jobs, e.g. Agile Coach, PO, Scrum Master, or UX Research.
+
+### Recruiter jobs by category {#job-channels-recruiter}
+
+These channels post recruiter jobs filtered by category.
+
+* **[#jobs-recruiter-backend](https://uplink.tech/slack/jobs-recruiter-backend)** - Backend-focused recruiter jobs, e.g. PHP, Python, Ruby, etc.
+* **[#jobs-recruiter-cms-crm-ecommerce](https://uplink.tech/slack/jobs-recruiter-cms-crm-ecommerce)** - Recruiter jobs focused on CMS, CRM, or e-commerce, e.g. WordPress, Salesforce, or Shopify.
+* **[#jobs-recruiter-design](https://uplink.tech/slack/jobs-recruiter-design)** - Design-focused recruiter jobs, e.g. UI/UX design, branding, or product design.
+* **[#jobs-recruiter-devops-cloud](https://uplink.tech/slack/jobs-recruiter-devops-cloud)** - DevOps/cloud-focused recruiter jobs, e.g. AWS, GCP, or Azure.
+* **[#jobs-recruiter-frontend](https://uplink.tech/slack/jobs-recruiter-frontend)** - Frontend-focused recruiter jobs, e.g. JavaScript, React, Angular, or Vue.js.
+* **[#jobs-recruiter-marketing](https://uplink.tech/slack/jobs-recruiter-marketing)** - Marketing-focused recruiter jobs, e.g. SEO/SEA/SEM, email marketing, or ASO.
+* **[#jobs-recruiter-mobile](https://uplink.tech/slack/jobs-recruiter-mobile)** - Mobile-focused recruiter jobs, e.g. native iOS or Android, React Native, or Flutter.
+* **[#jobs-recruiter-pm-consulting-coaching](https://uplink.tech/slack/jobs-recruiter-pm-consulting-coaching)** - Recruiter jobs focused on project management, consulting, or coaching.
+* **[#jobs-recruiter-product](https://uplink.tech/slack/jobs-recruiter-product)** - Product-focused recruiter jobs, e.g. Agile Coach, PO, Scrum Master, or UX Research.
+* **[#jobs-recruiter-qa-testing](https://uplink.tech/slack/jobs-recruiter-qa-testing)** - Recruiter jobs focused on QA/testing.
+* **[#jobs-recruiter-sap](https://uplink.tech/slack/jobs-recruiter-sap)** - SAP-focused recruiter jobs.
+
+### Community jobs {#community-jobs}
+
+**The best referrals come from the community!**
+
+For example, if you're working with a client who needs another freelancer, you'll naturally look in your own network first — because you can vouch for people you already know and trust. Everyone wins: the client gets help quickly, a community member gets a new opportunity, and you strengthen your relationship with both the client and the community.
+
+That's exactly what we created **[#community-jobs](https://uplink.tech/slack/community-jobs)** for!
+
+Unlike the other job channels, which are more or less automated (only the Uplink bot posts [direct jobs](040-direct-jobs.md) and [recruiter jobs](050-recruiter-jobs.md) there), **[#community-jobs](https://uplink.tech/slack/community-jobs)** is open for all members to post in! The process is also not automated — it's up to the poster to handle applications, forward them, and provide feedback.
+
+There are a few rules to keep in mind:
+
+* Describe the opportunity as specifically as possible (required skills, on-site/remote, etc.), but try to keep the post concise.
+* If you need to share a longer text (e.g. a recruiter's project description), post a short summary first and put the full details in the first thread reply.
+* If you're earning a commission on the placement, please mention that in your post.
+* Please don't use [@channel or @here](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace)!
+
+:::tip These jobs are welcome
+
+* A client you're currently working with (or have worked with) is looking for another freelancer. You can recommend the client and know they pay a fair hourly rate.
+* You're looking for a freelancer yourself, e.g. for your own startup or a personal project. In this case, be prepared to pay a market rate, typically 80-100 EUR/hour.
+* A recruiter contacted you about a project that sounds interesting but you can't or don't want to take on (e.g. due to capacity or because it's not your specialty). In this case, you should have spoken with the recruiter at least once and confirmed the hourly rate range the end client is willing to pay. Please include the rate in your post.
 
 :::
 
-## Application-Channels {#application-channels}
+:::danger These jobs should not be posted
 
-Ein privater Application-Channel wird automatisch angelegt, sobald ein Mitglied seine Bewerbung für einen Job im Mitgliederbereich fertigstellt. Alle weitere Kommunikation zu dieser Bewerbung läuft dann über den Application-Channel.
+* Requests from recruiters you haven't actually spoken with about the project. A conversation often reveals that some requirements in the listing are inaccurate or incomplete, and you can learn more about the end client.
+* Recruiter requests without a stated hourly rate (or range). If it's not mentioned in the job listing, you can find out by asking the recruiter or end client directly.
+* Please don't post temporary staffing ("ANÜ") requests. You can spot these by project durations of 12+ months or a note that only employees with social insurance are eligible.
+* Please don't post requests for permanent positions or co-founders.
 
-Das ist natürlich nur möglich, wenn das Mitglied zu dem Zeitpunkt einen aktiven Slack-Account hat. Wenn dem nicht so ist, läuft die weitere Kommunikation zu der Bewerbung per E-Mail.
+:::
+
+## Application channels {#application-channels}
+
+A private application channel is created automatically as soon as a member completes their application for a job in the member area. All further communication about that application then takes place in the application channel.
+
+This only works if the member has an active Slack account at the time. If not, further communication about the application happens via email.
 
 ## Guidelines {#guidelines}
 
-Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommunikation enthalten:
+Here are some helpful articles with guidelines for effective online communication:
 
 * [How to be helpful online](https://nedbatchelder.com//blog/202009/how_to_be_helpful_online.html)
 * [How to answer questions in a helpful way](https://jvns.ca/blog/answer-questions-well/)
@@ -145,26 +144,26 @@ Hier sind einige hilfreiche Artikel, die Guidelines für effektive Online-Kommun
 * [No Hello](https://www.nohello.com/)
 * [Want quick answers? Ask questions well!](https://quick-answers.kronis.dev/)
 
-## Beschränkungen {#restrictions}
+## Limitations {#restrictions}
 
-Unser Slack hat einige Einschränkungen:
+Our Slack has a few limitations:
 
-### 90 Tage Limit {#90-days-limit}
+### 90-day limit {#90-days-limit}
 
-Wir nutzen den kostenlosen Slack-Plan und haben keine Möglichkeit, zu einem der bezahlten Pläne zu wechseln, da dies mehrere tausend Euro pro Monat kosten würde.
+We're on Slack's free plan and can't upgrade to a paid plan, as it would cost several thousand euros per month.
 
-Die größte Einschränkung im kostenlosen Plan ist, dass nur die Nachrichten der letzten 90 Tage sichtbar und durchsuchbar sind.
+The biggest limitation of the free plan is that only messages from the last 90 days are visible and searchable.
 
-Um zu vermeiden, dass die älteren Nachrichten und damit auch das Wissen, das in unserer Community über die Jahre geteilt wurde, verschwinden, haben wir zum einen das [Slack Archive](065-slack-archive/index.md) und zum anderen das [Community Wiki](067-community-wiki.md) ins Leben gerufen.
+To prevent older messages — and the collective knowledge our community has shared over the years — from disappearing, we've created both the [Slack Archive](065-slack-archive/index.md) and the [Community Wiki](067-community-wiki.md).
 
-### Keine E-Mail-Benachrichtigungen nach Inaktivität {#email-notifications}
+### No email notifications after inactivity {#email-notifications}
 
-Slack möchte sicherstellen, dass Mitglieder keine E-Mail-Benachrichtigungen von Workspaces erhalten, in denen sie nicht regelmäßig aktiv sind.
+Slack wants to make sure that members don't receive email notifications from workspaces where they're not regularly active.
 
-Zu diesem Zweck werden Mitglieder als "inaktiv" gekennzeichnet, wenn sie 14 Tage lang keine (oder nur sehr wenig) Aktivität in einem Workspace zeigen. Wenn weitere 60 Tage ohne Aktivität vergehen, hört Slack auf, dem Mitglied E-Mail-Benachrichtigungen für diesen Workspace zu senden.
+To this end, members are marked as "inactive" after 14 days of no (or very little) activity in a workspace. If another 60 days pass without activity, Slack stops sending email notifications for that workspace altogether.
 
-Die Art und Weise, wie Slack "Aktivität" definiert, ist sehr spezifisch - das Senden von mindestens 10 Nachrichten in einem Zeitraum von 7 Tagen oder mindestens 9 Aktionen an 3 Tagen innerhalb eines 7-Tage-Zeitraums. Eine Aktion kann das Lesen einer Nachricht in einem Kanal, das Ändern des Kanals oder das Erstellen eines Beitrags sein.
+The way Slack defines "activity" is very specific — sending at least 10 messages within a 7-day period, or performing at least 9 actions across 3 days within a 7-day period. An action can be reading a message in a channel, switching channels, or creating a post.
 
-Wenn du also plötzlich keine E-Mail-Benachrichtigungen mehr von unserem Workspace erhältst, hat Slack dich höchstwahrscheinlich als "inaktiv" eingestuft. **Dies kann selbst dann passieren, wenn du dich regelmäßig einloggst, Nachrichten liest oder sogar selbst Nachrichten schreibst, da du möglicherweise immer noch unter dem zuvor erläuterten Schwellenwert für "Aktivität" landest.**
+So if you suddenly stop receiving email notifications from our workspace, Slack has most likely flagged you as "inactive." **This can happen even if you log in regularly, read messages, or even write messages yourself, since you may still fall below Slack's activity threshold described above.**
 
-**Die einfachste Methode, um sicherzustellen, dass dein Konto auf "aktiv" gesetzt ist und du E-Mail-Benachrichtigungen erhältst, ist [dir selbst 10 Nachrichten zu senden](https://slack.com/help/articles/212281468-What-is-a-direct-message). Ja, das funktioniert tatsächlich! (bestätigt vom Slack-Support)**
+**The easiest way to make sure your account stays "active" and you keep receiving email notifications is to [send yourself 10 messages](https://slack.com/help/articles/212281468-What-is-a-direct-message). Yes, this actually works! (confirmed by Slack support)**
