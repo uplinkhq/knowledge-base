@@ -1,6 +1,7 @@
 # 🫶 Code of Conduct
 
-*Letzte Aktualisierung: Juni 2025 ([Blog Post](https://uplink.tech/blog/2025-06-25-coc-changes))*
+*Aktualisierung Februar 2026 - aktualisierte Regeln für Wetbung*
+*Aktualisierung Juni 2025 - [Blog Post](https://uplink.tech/blog/2025-06-25-coc-changes)*
 
 Die Uplink-Community soll für alle ein sicherer, integrativer, hilfreicher und belästigungsfreier Ort sein. Alle Mitglieder werden daher gebeten, sich an diesen Code of Conduct zu halten, sowohl online als auch bei Veranstaltungen, die von Uplink ausgerichtet werden oder mit Uplink verbunden sind.
 
@@ -28,9 +29,12 @@ Bleibe professionell und vermeide es, (Gruppen von) Personen verbal anzugreifen.
 
 Versuche, hitzige Debatten zu vermeiden oder zu deeskalieren. Oft ist es am besten, zu akzeptieren, dass Mitglieder unterschiedliche Ansichten zu einem Thema haben und die Debatte mit einem "Let's agree to disagree!" zu beenden.
 
-### Vermeide Werbung
+### Werbe in Maßen
 
-Die Bewerbung von eigenen Projekten, Produkten oder Angeboten (unabhängig davon, ob sie bezahlt oder kostenlos sind), ist nur im Slack-Channel [#promotion](https://uplink.tech/slack/promotion) erwünscht. Dort können auch LinkedIn-Beiträge gepostet werden, die man promoten möchte. [#indiehackers](https://uplink.tech/slack/indiehackers) hingegen ist der passende Channel, wenn du für ein eigenes Projekt Feedback suchst, z.B. zu technischen Themen oder Marketing. In den anderen Channels ist Werbung nicht erwünscht.
+Werbung für eigene Projekte, Produkte oder Angebote ist grundsätzlich erlaubt, solange sie
+
+1. nicht zu aggressiv ist (vermeide mehrere Posts in kurzem Abstand oder "Marktschreier"-Verhalten) und
+2. im passenden Channel landet: [#events](https://uplink.tech/slack/events) für Webinare, Meetups, Konferenzen o.ä., [#business](https://uplink.tech/slack/business) für Produkte und Services, die direkt mit Freelancing zu tun haben, [#lounge](https://uplink.tech/slack/lounge) für alles andere.
 
 ### Vermeide "Agenda Pushing"
 
