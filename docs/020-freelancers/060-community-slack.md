@@ -21,7 +21,7 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **[#taxes](https://uplink.tech/slack/taxes)** - Steuerthemen werden in diesem Channel besprochen - wo finde ich einen Steuerberater, welche Steuersoftware ist die beste, welches Firmenkonstrukt ist steuerlich vorteilhaft, etc.
 * **[#events](https://uplink.tech/slack/events)** - Organisierst du ein Event, Meetup oder eine Konferenz oder planst du, daran teilzunehmen? Dann lass es die anderen Uplink-Mitglieder wissen!
 * **[#ideas](https://uplink.tech/slack/ideas)** - Poste deine Nebenprojekte oder Ideen hier, um Feedback zu bekommen!
-* **[#investing](https://uplink.tech/slack/investing)** - Hier geht es darum, wo man als Freelancer sein hart verdientes Geld invstieren kann - Aktien, ETFs, Crypto, etc.
+* **[#investing](https://uplink.tech/slack/investing)** - Hier geht es darum, wo man als Freelancer sein hart verdientes Geld investieren kann - Aktien, ETFs, Crypto, etc.
 * **[#uplink](https://uplink.tech/slack/uplink)** - In diesem Channel kannst du dem Uplink-Team Ideen für neue Features mitteilen oder auch einen Bug reporten. In unregelmäßigen Abständen fragt das Uplink-Team hier auch selbst nach Feedback zu neuen Ideen und Features.
 * **[#lounge](https://uplink.tech/slack/lounge)** - Alles, was in die Kategorie "offtopic" gehört, also nicht direkt mit der Arbeit als IT-Freelancer zu tun hat.
 * **[#agile](https://uplink.tech/slack/agile)** - Diskussionen zum Thema Agile, SCRUM und agiles Projektmanagement.
@@ -76,7 +76,7 @@ In diesen Channels werden Direktjobs je nach Kategorie veröffentlicht.
 * **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** - Direktjobs mit Marketing-Fokus, z.B. SEO/SEA/SEM, E-Mail Marketing oder ASO.
 * **[#jobs-direct-mobile](https://uplink.tech/slack/jobs-direct-mobile)** - Direktjobs mit Mobile-Fokus, z.B. native iOS oder Android, React Native oder Flutter.
 * **[#jobs-direct-pm-consulting-coaching](https://uplink.tech/slack/jobs-direct-pm-consulting-coaching)** - Direktjobs mit Fokus auf Projektmanagement, Consulting oder Coaching.
-* **[#jobs-direct-product](https://uplink.tech/slack/jobs-direct-product)** - Direktjobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Reserach.
+* **[#jobs-direct-product](https://uplink.tech/slack/jobs-direct-product)** - Direktjobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Research.
 
 ### Recruiter-Jobs nach Kategorie {#job-channels-recruiter}
 
@@ -90,7 +90,7 @@ In diesen Channels werden Recruiter-Jobs je nach Kategorie veröffentlicht.
 * **[#jobs-recruiter-marketing](https://uplink.tech/slack/jobs-recruiter-marketing)** - Recruiter-Jobs mit Marketing-Fokus, z.B. SEO/SEA/SEM, E-Mail Marketing oder ASO.
 * **[#jobs-recruiter-mobile](https://uplink.tech/slack/jobs-recruiter-mobile)** - Recruiter-Jobs mit Mobile-Fokus, z.B. native iOS oder Android, React Native oder Flutter.
 * **[#jobs-recruiter-pm-consulting-coaching](https://uplink.tech/slack/jobs-recruiter-pm-consulting-coaching)** - Recruiter-Jobs mit Fokus auf Projektmanagement, Consulting oder Coaching.
-* **[#jobs-recruiter-product](https://uplink.tech/slack/jobs-recruiter-product)** - Recruiter-Jobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Reserach.
+* **[#jobs-recruiter-product](https://uplink.tech/slack/jobs-recruiter-product)** - Recruiter-Jobs mit "Product"-Fokus, z.B. Agile Coach, PO, Scrum Master oder UX Research.
 * **[#jobs-recruiter-qa-testing](https://uplink.tech/slack/jobs-recruiter-qa-testing)** - Recruiter-Jobs mit Fokus auf QA/Testing
 * **[#jobs-recruiter-sap](https://uplink.tech/slack/jobs-recruiter-sap)** - Recruiter-Jobs mit SAP-Fokus
 
