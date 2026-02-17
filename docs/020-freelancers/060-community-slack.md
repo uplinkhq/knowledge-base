@@ -38,6 +38,8 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 * **[#running-berlin](https://uplink.tech/slack/running-berlin)** - In diesem Channel kannst du dich mit anderen Läufern aus Berlin austauschen.
 * **[#freelance-unlocked-conference](https://uplink.tech/slack/freelance-unlocked-conference)** - Hier findest du alle Infos zur jährlich stattfindenden ["Freelance Unlocked" Konferenz](https://www.freelanceunlocked.com/).
 * **[#webinars](https://uplink.tech/slack/webinars)** - Tritt diesem Channel bei, um benachrichtigt zu werden, wenn eins unserer [Webinare](https://uplink.tech/webinars) startet, um live während eines Webinars Fragen für den Q&A Part zu stellen und um Ideen und Themen für neue Webinare zu besprechen.
+* **[#linkedin-farming](https://uplink.tech/slack/linkedin-farming)** - Hier kannst du ungeniert Links zu deinen LinkedIn-Posts posten, um etwas Engagement zu generieren. Vergiss nicht, auch andere Posts mit einem Like zu beglücken!
+* **[#indiehackers](https://uplink.tech/slack/indiehackers)** - Hast du ein Nebenprojekt oder ein Startup, zu dem du Feedback suchst, z.B. zu technischen Themen oder Marketing? Dies ist der richtige Channel dafür!
 
 ## Job-Channels {#job-channels}
 
