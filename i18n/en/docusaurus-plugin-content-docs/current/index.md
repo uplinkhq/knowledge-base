@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 👋 Welcome to Uplink!
 
-Uplink is a [network for IT freelancers](https://uplink.tech/) in which over 5,500 freelancers (as of June 2025) from the fields of tech, design, product and marketing help and support each other.
+Uplink is a [network for IT freelancers](https://uplink.tech/) in which over 6,000 freelancers (as of April 2026) from the fields of tech, design, product and marketing help and support each other.
 
 In this Knowledge Base you can find out everything about what Uplink offers the various players in the IT industry:
 
