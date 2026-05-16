@@ -1,2 +1,4 @@
 .docusaurus
+.astro
 build
+dist

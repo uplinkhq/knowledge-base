@@ -1,3 +1,0 @@
-# 🤠 Uplink für Recruiter
-
-Coming soon...
