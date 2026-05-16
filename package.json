@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "0.39.2",
-    "astro": "6.3.3",
+    "astro": "^6.3.3",
     "node-addon-api": "^8.5.0",
     "node-gyp": "^12.2.0",
     "remark-custom-heading-id": "2.0.0"
