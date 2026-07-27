@@ -18,7 +18,7 @@
     "remark-custom-heading-id": "2.0.0"
   },
   "devDependencies": {
-    "wrangler": "^4.27.0"
+    "wrangler": "latest"
   },
   "browserslist": {
     "production": [
