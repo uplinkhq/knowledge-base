@@ -23,14 +23,14 @@ Die Auszahlung erfolgt dann über eine [Gutschrift](https://www.informer.eu/de/b
 Eine Frage, die oft gestellt wird, ist, warum wir nicht statt eines Pauschalbetrags eine prozentuale Beteiligung an dem Umsatz, den wir an dem neuen Kunden verdienen, anbieten.
 Dafür gibt es zwei Gründe:
 
-* Zum einen [verdienen wir unsere Gebühr bei einer erfolgreichen Vermittlung über einen Zeitraum von max. 12 Monaten](090-our-fee.md), d.h. der Freelancer müsste auch so lange warten, um seine volle Belohnung für die Empfehlung zu bekommen. Die Pauschalgebühr dagegen können wir sofort auszahlen, sobald eine Vermittlung bestätigt ist.
+* Zum einen [verdienen wir unsere Gebühr bei einer erfolgreichen Vermittlung über einen Zeitraum von max. 12 Monaten](090-our-fee/), d.h. der Freelancer müsste auch so lange warten, um seine volle Belohnung für die Empfehlung zu bekommen. Die Pauschalgebühr dagegen können wir sofort auszahlen, sobald eine Vermittlung bestätigt ist.
 * Zum anderen kommt es immer wieder vor, dass ein Projekt kurz nach dem Start vom Freelancer oder vom Kunden abgebrochen wird - in diesem Fall würde der Freelancer, der den Kunden empfohlen hat, nur einen Bruchteil der Belohnung bekommen.
 
 Aus diesen Gründen haben wir uns für eine Pauschalsumme anstatt einer prozentualen Beteiligung entschieden.
 
 ## Passende Kunden
 
-Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen sein, die für unser Modell der [Direktbeauftragung](../030-clients/020-direct-engagement.md) in Frage kommen, tendenziell also eher KMU, Startups und Agenturen. Darüber hinaus sollte der Kunde zum Zeitpunkt der Empfehlung (oder in absehbarere Zukunft) konkret einen Freelancer suchen.
+Welche Kunden eignen sich für eine Empfehlung? Generell sollten es Unternehmen sein, die für unser Modell der [Direktbeauftragung](../030-clients/020-direct-engagement/) in Frage kommen, tendenziell also eher KMU, Startups und Agenturen. Darüber hinaus sollte der Kunde zum Zeitpunkt der Empfehlung (oder in absehbarere Zukunft) konkret einen Freelancer suchen.
 
 ## Bereits bekannte Kunden
 
@@ -42,4 +42,4 @@ Wenn ein Freelancer vor einer Empfehlung prüfen will, ob wir den Kunden bereits
 
 In unregelmäßigen Abständen fahren wir "Double the Coins" Kampagnen, bei denen unsere Mitglieder bei einer erfolgreichen Empfehlung die doppelte Belohnung bekommen, d.h. 500€, wenn wir einen Job des Kunden posten, und noch einmal 500€, wenn wir einen Kandidaten vermitteln können.
 
-Angekündigt werden die Kampagnen in unseren Member News, im [Slack](060-community-slack.md) und auf unserem Blog.
+Angekündigt werden die Kampagnen in unseren Member News, im [Slack](060-community-slack/) und auf unserem Blog.

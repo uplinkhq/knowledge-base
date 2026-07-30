@@ -4,7 +4,7 @@ title: '🗄️ Slack Archive'
 
 ## 🤔 What is the Slack Archive?
 
-The **Slack Archive** is a database of all messages from our [Community Slack](../060-community-slack.md), which is accessible to all members of Uplink in the [Member Area](../110-member-area.md).
+The **Slack Archive** is a database of all messages from our [Community Slack](../060-community-slack/), which is accessible to all members of Uplink in the [Member Area](../110-member-area/).
 
 ![Screenshot](screenshot.png)
 
@@ -15,7 +15,7 @@ All messages sent more than 90 days ago are hidden by Slack.
 
 For our public channels, this means that valuable discussions, links and tips from the past disappear from the history!
 
-The problem is even more serious for the [application channels](../060-community-slack.md#application-channels), which are automatically created for every job application. Sometimes important issues are discussed there at the beginning of a project that are still relevant several months later (e.g. questions about invoicing or agreements with the client) and must be viewed by the applicant and the Uplink team.
+The problem is even more serious for the [application channels](../060-community-slack/#application-channels), which are automatically created for every job application. Sometimes important issues are discussed there at the beginning of a project that are still relevant several months later (e.g. questions about invoicing or agreements with the client) and must be viewed by the applicant and the Uplink team.
 
 **With the Slack Archive, we ensure that all content is permanently preserved.**
 
@@ -23,7 +23,7 @@ The problem is even more serious for the [application channels](../060-community
 
 There are various ways to access the Slack Archive:
 
-1. in the [member area](../110-member-area.md) you will find the Slack Archive under the menu item "Community".
+1. in the [member area](../110-member-area/) you will find the Slack Archive under the menu item "Community".
 2. in every public Slack channel, the Slack Archive can be accessed via "Bookmarks":
    ![Screenshot](SCR-20250411-qxfg.png)
 3. on every message in Slack you will find the option "Open in Slack Archive" after clicking on the three dots:

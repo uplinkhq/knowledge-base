@@ -4,7 +4,7 @@ title: '🤗 Mitglied werden'
 
 Die Mitgliedschaft bei Uplink ist kostenlos und du kannst dich ganz einfach [auf unserer Website bewerben](https://uplink.tech/freelancers#apply).
 
-Wir prüfen alle neuen Bewerbungen innerhalb weniger Tage. Du bekommst dann entweder eine Willkommens-E-Mail und eine separate Einladung für unseren [Community Slack](060-community-slack.md), oder wir melden uns per E-Mail mit Rückfragen, wenn noch etwas unklar ist.
+Wir prüfen alle neuen Bewerbungen innerhalb weniger Tage. Du bekommst dann entweder eine Willkommens-E-Mail und eine separate Einladung für unseren [Community Slack](060-community-slack/), oder wir melden uns per E-Mail mit Rückfragen, wenn noch etwas unklar ist.
 
 ## Voraussetzungen
 

@@ -4,7 +4,7 @@ title: '🤗 Joining Uplink'
 
 Membership in Uplink is free and you can easily [apply via our website](https://uplink.tech/freelancers#apply).
 
-We review all new applications within a few days. You'll then either receive a welcome email and a separate invitation to our [Community Slack](060-community-slack.md), or we'll contact you via email with follow-up questions if anything needs clarification.
+We review all new applications within a few days. You'll then either receive a welcome email and a separate invitation to our [Community Slack](060-community-slack/), or we'll contact you via email with follow-up questions if anything needs clarification.
 
 ## Requirements
 

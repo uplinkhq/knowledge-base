@@ -2,7 +2,7 @@
 title: '📓 Ressources'
 ---
 
-Here we collect some resources from the [Community Slack](060-community-slack.md) so that they can be easily linked to and shared.
+Here we collect some resources from the [Community Slack](060-community-slack/) so that they can be easily linked to and shared.
 
 ## Where can I create a profile and upload my CV?
 

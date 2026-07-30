@@ -45,7 +45,7 @@ In diesen Channels kannst du dich mit anderen Uplink-Mitgliedern zu verschiedene
 
 ## Job-Channels {#job-channels}
 
-Jedes Mal, wenn bei Uplink ein neuer Job veröffentlicht wird, wird er in einem oder mehreren Job-Channels gepostet. Jeder Job-Channel ist speziell für Jobs aus einer oder mehreren Kategorien. [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) werden dabei in separaten Channels gepostet. Alle Mitglieder, die den Job-Channels beitreten, bekommen bei jedem neuen Job eine [Benachrichtigung](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) und können sich dann darüber für den Job bewerben.
+Jedes Mal, wenn bei Uplink ein neuer Job veröffentlicht wird, wird er in einem oder mehreren Job-Channels gepostet. Jeder Job-Channel ist speziell für Jobs aus einer oder mehreren Kategorien. [Direktjobs](040-direct-jobs/) und [Recruiter-Jobs](050-recruiter-jobs/) werden dabei in separaten Channels gepostet. Alle Mitglieder, die den Job-Channels beitreten, bekommen bei jedem neuen Job eine [Benachrichtigung](https://slack.com/intl/de-de/help/articles/360025446073-Guide-f%C3%BCr-Slack-Benachrichtigungen) und können sich dann darüber für den Job bewerben.
 
 Durch die Job-Channels kannst du dir als Mitglied genau aussuchen, über welche Jobs du informiert werden und welche du ignorieren möchtest! Wenn du z.B. nur über Direktjobs mit Fokus auf Frontend oder Marketing informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** und **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** bei.
 
@@ -55,7 +55,7 @@ Nicht jede Job-Kategorie hat einen dedizierten Job-Channel! Jobs aus einer Kateg
 
 :::
 
-Wenn du dich hingegen nur für Jobs mit speziellen Skills, z.B. PHP im Backend oder React Native im Frontend interessierst, lege dir [im Mitgliederbereich eine Jobsuche](110-member-area.md#job-search) für diese Skills an! So wirst du bei jedem passenden Job direkt per E-Mail benachrichtigt.
+Wenn du dich hingegen nur für Jobs mit speziellen Skills, z.B. PHP im Backend oder React Native im Frontend interessierst, lege dir [im Mitgliederbereich eine Jobsuche](110-member-area/#job-search) für diese Skills an! So wirst du bei jedem passenden Job direkt per E-Mail benachrichtigt.
 
 Diese Job-Channels gibt es bei Uplink:
 
@@ -104,7 +104,7 @@ Wer z.B. bei einem Kunden im Einsatz ist und davon hört, dass ein weiterer Free
 
 Genau dafür haben wir den Channel **[#community-jobs](https://uplink.tech/slack/community-jobs)** ins Leben gerufen!
 
-Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs.md) und [Recruiter-Jobs](050-recruiter-jobs.md) posten, können in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
+Während die anderen Job-Channels mehr oder weniger "automatisiert" sind, d.h. nur der Uplink Bot darf dort unsere [Direktjobs](040-direct-jobs/) und [Recruiter-Jobs](050-recruiter-jobs/) posten, können in **[#community-jobs](https://uplink.tech/slack/community-jobs)** alle Mitglieder posten!
 Auch der weitere Prozess ist nicht automatisiert wie in den Job-Channels, d.h. es ist der Verfasser:in des Posts überlassen, die Bewerbungen zu bearbeiten bzw. weiterzuleiten und Feedback zu geben.
 
 Es gibt allerdings einige Regeln zu beachten:
@@ -157,7 +157,7 @@ Wir nutzen den kostenlosen Slack-Plan und haben keine Möglichkeit, zu einem der
 
 Die größte Einschränkung im kostenlosen Plan ist, dass nur die Nachrichten der letzten 90 Tage sichtbar und durchsuchbar sind.
 
-Um zu vermeiden, dass die älteren Nachrichten und damit auch das Wissen, das in unserer Community über die Jahre geteilt wurde, verschwinden, haben wir zum einen das [Slack Archive](065-slack-archive/index.md) und zum anderen das [Community Wiki](067-community-wiki.md) ins Leben gerufen.
+Um zu vermeiden, dass die älteren Nachrichten und damit auch das Wissen, das in unserer Community über die Jahre geteilt wurde, verschwinden, haben wir zum einen das [Slack Archive](065-slack-archive/) und zum anderen das [Community Wiki](067-community-wiki/) ins Leben gerufen.
 
 ### Keine E-Mail-Benachrichtigungen nach Inaktivität {#email-notifications}
 

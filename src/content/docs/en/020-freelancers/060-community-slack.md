@@ -45,7 +45,7 @@ These channels are where you can connect and chat with other Uplink members on a
 
 ## Job channels {#job-channels}
 
-Whenever a new job is published on Uplink, it gets posted to one or more job channels. Each job channel covers jobs from one or more categories. [Direct jobs](040-direct-jobs.md) and [recruiter jobs](050-recruiter-jobs.md) are posted in separate channels. All members who join job channels receive a [notification](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications) for each new job and can then apply through the channel.
+Whenever a new job is published on Uplink, it gets posted to one or more job channels. Each job channel covers jobs from one or more categories. [Direct jobs](040-direct-jobs/) and [recruiter jobs](050-recruiter-jobs/) are posted in separate channels. All members who join job channels receive a [notification](https://slack.com/help/articles/201355156-Configure-your-Slack-notifications) for each new job and can then apply through the channel.
 
 Job channels let you choose exactly which jobs you want to hear about and which ones to skip! For example, if you only want to see direct jobs focused on frontend or marketing, just join **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** and **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)**.
 
@@ -55,7 +55,7 @@ Not every job category has its own dedicated channel! Jobs in categories without
 
 :::
 
-If you're only interested in jobs with specific skills, e.g. PHP for backend or React Native for mobile, set up a [job search in the member area](110-member-area.md#job-search) for those skills! You'll be notified by email whenever a matching job comes in.
+If you're only interested in jobs with specific skills, e.g. PHP for backend or React Native for mobile, set up a [job search in the member area](110-member-area/#job-search) for those skills! You'll be notified by email whenever a matching job comes in.
 
 Here are the job channels available on Uplink:
 
@@ -104,7 +104,7 @@ For example, if you're working with a client who needs another freelancer, you'l
 
 That's exactly what we created **[#community-jobs](https://uplink.tech/slack/community-jobs)** for!
 
-Unlike the other job channels, which are more or less automated (only the Uplink bot posts [direct jobs](040-direct-jobs.md) and [recruiter jobs](050-recruiter-jobs.md) there), **[#community-jobs](https://uplink.tech/slack/community-jobs)** is open for all members to post in! The process is also not automated — it's up to the poster to handle applications, forward them, and provide feedback.
+Unlike the other job channels, which are more or less automated (only the Uplink bot posts [direct jobs](040-direct-jobs/) and [recruiter jobs](050-recruiter-jobs/) there), **[#community-jobs](https://uplink.tech/slack/community-jobs)** is open for all members to post in! The process is also not automated — it's up to the poster to handle applications, forward them, and provide feedback.
 
 There are a few rules to keep in mind:
 
@@ -156,7 +156,7 @@ We're on Slack's free plan and can't upgrade to a paid plan, as it would cost se
 
 The biggest limitation of the free plan is that only messages from the last 90 days are visible and searchable.
 
-To prevent older messages — and the collective knowledge our community has shared over the years — from disappearing, we've created both the [Slack Archive](065-slack-archive/index.md) and the [Community Wiki](067-community-wiki.md).
+To prevent older messages — and the collective knowledge our community has shared over the years — from disappearing, we've created both the [Slack Archive](065-slack-archive/) and the [Community Wiki](067-community-wiki/).
 
 ### No email notifications after inactivity {#email-notifications}
 

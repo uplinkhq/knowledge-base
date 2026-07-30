@@ -6,4 +6,4 @@ Sobald ein Unternehmen durch Uplink in Kontakt mit einem passenden Freelancer ge
 
 Auf unserer Webseite finden sich [Vertragsvorlagen](https://uplink.tech/document-templates), die für einen Vertrag mit dem Freelancer genutzt werden können.
 
-Die Rechnungen werden dann während des Projekts dementsprechend auch direkt vom Freelancer an das Unternehmen gestellt. Die Abrechnung der [Gebühr](../020-freelancers/090-our-fee.md) erfolgt direkt zwischen Uplink und dem Freelancer.
+Die Rechnungen werden dann während des Projekts dementsprechend auch direkt vom Freelancer an das Unternehmen gestellt. Die Abrechnung der [Gebühr](../020-freelancers/090-our-fee/) erfolgt direkt zwischen Uplink und dem Freelancer.

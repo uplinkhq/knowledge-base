@@ -7,7 +7,7 @@ title: '🫶 Code of Conduct'
 
 The Uplink community aims to be a safe, inclusive, helpful, and harassment-free place for everyone. All members are asked to adhere to this Code of Conduct, both online and at events hosted by or associated with Uplink.
 
-The Uplink team and the [Guides](025-guides.md) are responsible for clarifying and enforcing the standards of acceptable behavior and have the right to exclude members from the community in case of violations.
+The Uplink team and the [Guides](025-guides/) are responsible for clarifying and enforcing the standards of acceptable behavior and have the right to exclude members from the community in case of violations.
 
 ## The short version
 
@@ -23,7 +23,7 @@ The #1 goal for everyone in our community should be to be helpful and support ea
 
 Keep in mind that written communication can easily be misunderstood, especially when people don't know each other personally. "Overcommunication" is often a good idea — explain your viewpoint in more detail than you would in a face-to-face conversation, and use emojis generously to convey your tone. 😀
 
-Please be especially patient and helpful with new members! They often don't know the dos and don'ts of the community yet, or ask questions that have already been answered. In that case, please don't just tell them to use the search — try to briefly answer their question and mention that searching [Slack](060-community-slack.md) or our [Community Wiki](067-community-wiki.md) might turn up more helpful answers.
+Please be especially patient and helpful with new members! They often don't know the dos and don'ts of the community yet, or ask questions that have already been answered. In that case, please don't just tell them to use the search — try to briefly answer their question and mention that searching [Slack](060-community-slack/) or our [Community Wiki](067-community-wiki/) might turn up more helpful answers.
 
 ### Stay professional
 
@@ -82,4 +82,4 @@ It's simple: far-right extremism is not an opinion. The equal worth of all peopl
 
 ## Reporting & Feedback
 
-If you believe someone in the community has violated the Code of Conduct, please reach out [via email](mailto:hello@uplink.tech) or contact one of the [Guides](025-guides.md) on Slack.
+If you believe someone in the community has violated the Code of Conduct, please reach out [via email](mailto:hello@uplink.tech) or contact one of the [Guides](025-guides/) on Slack.

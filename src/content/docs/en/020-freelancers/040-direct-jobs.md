@@ -10,7 +10,7 @@ From that point on, the further communication runs directly between the candidat
 
 If the client and one of the candidates agree to work together, the contract is signed directly between them, and the invoices are also issued by the freelancer directly to the client.
 
-Our fee for direct jobs is [10% in the first 12 months of cooperation with the client.](090-our-fee.md)
+Our fee for direct jobs is [10% in the first 12 months of cooperation with the client.](090-our-fee/)
 
 ## Our selection process {#selection-process}
 
