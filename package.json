@@ -6,7 +6,7 @@
     "astro": "astro",
     "start": "astro dev",
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && mv dist/knowledge-base/_redirects dist/_redirects && cp dist/knowledge-base/404.html dist/404.html",
     "deploy": "bin/deploy",
     "cf:dev": "npm run build && wrangler dev",
     "preview": "astro preview"

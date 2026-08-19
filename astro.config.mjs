@@ -5,6 +5,9 @@ import customHeadingId from "remark-custom-heading-id"
 export default defineConfig({
   site: "https://uplink.tech",
   base: "/knowledge-base",
+  // Nest the build under the base path so Cloudflare asset lookups, which use the
+  // full request path, resolve /knowledge-base/*. base only rewrites URLs.
+  outDir: "./dist/knowledge-base",
   devToolbar: {
     enabled: false
   },
