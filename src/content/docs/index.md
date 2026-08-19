@@ -6,13 +6,13 @@ Uplink ist ein [Netzwerk für IT-Freelancer](https://uplink.tech/), in dem sich 
 
 In dieser Knowledge Base erfährst du alles darüber, was Uplink den unterschiedlichen Akteuren der IT-Branche anbietet:
 
-👉 **[Uplink für Freelancer](020-freelancers/)**
+👉 **[Uplink für Freelancer](freelancers/)**
 
-👉 **[Uplink für Unternehmen](030-clients/)**
+👉 **[Uplink für Unternehmen](clients/)**
 
-👉 **[Uplink für Recruiter](040-recruiters/)**
+👉 **[Uplink für Recruiter](recruiters/)**
 
-👉 **[Uplink für Agenturen](050-agencies/)**
+👉 **[Uplink für Agenturen](agencies/)**
 
 ## Fehlt etwas?
 

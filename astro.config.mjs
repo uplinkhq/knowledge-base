@@ -48,49 +48,49 @@ export default defineConfig({
           label: "Für Freelancer",
           translations: { en: "For Freelancers" },
           items: [
-            "020-freelancers",
-            "020-freelancers/020-joining-uplink",
-            "020-freelancers/025-guides",
-            "020-freelancers/030-public-profiles",
-            "020-freelancers/040-direct-jobs",
-            "020-freelancers/050-recruiter-jobs",
-            "020-freelancers/060-community-slack",
-            "020-freelancers/064-ressources",
-            "020-freelancers/065-slack-archive",
-            "020-freelancers/067-community-wiki",
-            "020-freelancers/070-applying-for-a-job",
-            "020-freelancers/080-working-with-a-client",
-            "020-freelancers/090-our-fee",
-            "020-freelancers/100-our-contract",
-            "020-freelancers/110-member-area",
-            "020-freelancers/120-referring-a-client",
-            "020-freelancers/130-referring-a-freelancer",
-            "020-freelancers/140-contract-check",
-            "020-freelancers/150-meetups",
-            "020-freelancers/160-partners",
-            "020-freelancers/170-webinars",
-            "020-freelancers/190-code-of-conduct"
+            "freelancers",
+            "freelancers/joining-uplink",
+            "freelancers/guides",
+            "freelancers/public-profiles",
+            "freelancers/direct-jobs",
+            "freelancers/recruiter-jobs",
+            "freelancers/community-slack",
+            "freelancers/ressources",
+            "freelancers/slack-archive",
+            "freelancers/community-wiki",
+            "freelancers/applying-for-a-job",
+            "freelancers/working-with-a-client",
+            "freelancers/our-fee",
+            "freelancers/our-contract",
+            "freelancers/member-area",
+            "freelancers/referring-a-client",
+            "freelancers/referring-a-freelancer",
+            "freelancers/contract-check",
+            "freelancers/meetups",
+            "freelancers/partners",
+            "freelancers/webinars",
+            "freelancers/code-of-conduct"
           ]
         },
         {
           label: "Für Unternehmen",
           translations: { en: "For Clients" },
           items: [
-            "030-clients",
-            "030-clients/010-finding-a-freelancer",
-            "030-clients/020-direct-engagement",
-            "030-clients/030-working-with-a-freelancer"
+            "clients",
+            "clients/finding-a-freelancer",
+            "clients/direct-engagement",
+            "clients/working-with-a-freelancer"
           ]
         },
         {
           label: "Für Recruiter",
           translations: { en: "For Recruiters" },
-          items: ["040-recruiters"]
+          items: ["recruiters"]
         },
         {
           label: "Für Agenturen",
           translations: { en: "For Agencies" },
-          items: ["050-agencies"]
+          items: ["agencies"]
         }
       ],
       head: [

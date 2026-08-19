@@ -6,13 +6,13 @@ Uplink is a [network for IT freelancers](https://uplink.tech/) in which over 6,0
 
 In this Knowledge Base you can find out everything about what Uplink offers the various players in the IT industry:
 
-👉 **[Uplink for freelancers](020-freelancers/)**
+👉 **[Uplink for freelancers](freelancers/)**
 
-👉 **[Uplink for clients](030-clients/)**
+👉 **[Uplink for clients](clients/)**
 
-👉 **[Uplink for recruiters](040-recruiters/)**
+👉 **[Uplink for recruiters](recruiters/)**
 
-👉 **[Uplink for agencies](050-agencies/)**
+👉 **[Uplink for agencies](agencies/)**
 
 ## Is anything missing?
 
