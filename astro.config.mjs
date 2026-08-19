@@ -1,13 +1,28 @@
 import { defineConfig } from "astro/config"
 import starlight from "@astrojs/starlight"
 import customHeadingId from "remark-custom-heading-id"
+import { cp, rename } from "node:fs/promises"
+
+// Cloudflare matches assets against the full request path, so the site has to be
+// nested under the base path -- `base` only rewrites URLs, it does not move the
+// output. `_redirects` and `404.html` must sit at the assets root instead, one
+// level above the nested site, so lift them there after the build. Derived from
+// the actual outDir so it also holds when the build command overrides it.
+const liftAssetRootFiles = {
+  name: "lift-asset-root-files",
+  hooks: {
+    "astro:build:done": async ({ dir }) => {
+      const assetsRoot = new URL("../", dir)
+      await rename(new URL("_redirects", dir), new URL("_redirects", assetsRoot))
+      await cp(new URL("404.html", dir), new URL("404.html", assetsRoot))
+    }
+  }
+}
 
 export default defineConfig({
   site: "https://uplink.tech",
   base: "/knowledge-base",
-  // Nest the build under the base path so Cloudflare asset lookups, which use the
-  // full request path, resolve /knowledge-base/*. base only rewrites URLs.
-  outDir: "./dist/knowledge-base",
+  outDir: "./build/knowledge-base",
   devToolbar: {
     enabled: false
   },
@@ -15,6 +30,7 @@ export default defineConfig({
     remarkPlugins: [customHeadingId]
   },
   integrations: [
+    liftAssetRootFiles,
     starlight({
       title: "Uplink Knowledge Base",
       favicon: "/images/favicon.ico",
