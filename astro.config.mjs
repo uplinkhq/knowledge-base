@@ -22,7 +22,7 @@ const liftAssetRootFiles = {
 export default defineConfig({
   site: "https://uplink.tech",
   base: "/knowledge-base",
-  outDir: "./build/knowledge-base",
+  outDir: "./dist/knowledge-base",
   devToolbar: {
     enabled: false
   },
