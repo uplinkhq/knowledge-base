@@ -40,7 +40,7 @@ Wenn du möchtest, kannst du deine Projektliste in ein separates Dokument auslag
 
 **Die Bedeutung der Projektliste kann nicht genug betont werden.** Ob es uns gefällt oder nicht: Kunden (und Recruiter) schauen sich oft ausschließlich diese Liste an, um zu entscheiden, ob eine Person zu einem Projekt passt. Wenn die Haupt-Skills des Projekts in den letzten 2 oder 3 Projekten der Person vorkommen, macht das einen sehr guten Eindruck. Wenn nicht, kann allein aus diesem Grund eine andere Person bevorzugt werden.
 
-:::tip Beispiel für einen Projektlisten-Eintrag
+:::tip[Beispiel für einen Projektlisten-Eintrag]
 
 ### Senior Frontend Developer
 

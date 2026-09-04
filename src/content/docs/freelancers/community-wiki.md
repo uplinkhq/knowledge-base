@@ -6,7 +6,7 @@ title: '📚 Community Wiki'
 
 **The Community Wiki is here to change that!**
 
-:::info
+:::note
 
 You can access the Community Wiki [in our member area](https://my.uplink.tech/community/wiki).
 

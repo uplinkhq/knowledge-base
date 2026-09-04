@@ -40,7 +40,7 @@ If you prefer, you can move your project list to a separate document to keep you
 
 **The importance of the project list cannot be overstated.** Whether we like it or not, clients (and recruiters) will often look at this list alone to determine if a candidate is a good fit for a job. If the job’s main skills are mentioned in the last 2 or 3 jobs of the candidate, it makes a very good impression. If not, a different candidate might be given priority for that reason alone.
 
-:::tip Example of a project list entry
+:::tip[Example of a project list entry]
 
 ### Senior Frontend Developer
 

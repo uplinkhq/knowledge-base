@@ -49,7 +49,7 @@ Whenever a new job is published on Uplink, it gets posted to one or more job cha
 
 Job channels let you choose exactly which jobs you want to hear about and which ones to skip! For example, if you only want to see direct jobs focused on frontend or marketing, just join **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** and **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)**.
 
-:::info Heads up
+:::note[Heads up]
 
 Not every job category has its own dedicated channel! Jobs in categories without a dedicated channel are only posted in #jobs-direct or #jobs-recruiter. So if you don't want to miss any jobs, simply join both of these channels.
 
@@ -113,7 +113,7 @@ There are a few rules to keep in mind:
 * If you're earning a commission on the placement, please mention that in your post.
 * Please don't use [@channel or @here](https://slack.com/help/articles/202009646-Notify-a-channel-or-workspace)!
 
-:::tip These jobs are welcome
+:::tip[These jobs are welcome]
 
 * A client you're currently working with (or have worked with) is looking for another freelancer. You can recommend the client and know they pay a fair hourly rate.
 * You're looking for a freelancer yourself, e.g. for your own startup or a personal project. In this case, be prepared to pay a market rate, typically 80-100 EUR/hour.
@@ -121,7 +121,7 @@ There are a few rules to keep in mind:
 
 :::
 
-:::danger These jobs should not be posted
+:::danger[These jobs should not be posted]
 
 * Requests from recruiters you haven't actually spoken with about the project. A conversation often reveals that some requirements in the listing are inaccurate or incomplete, and you can learn more about the end client.
 * Recruiter requests without a stated hourly rate (or range). If it's not mentioned in the job listing, you can find out by asking the recruiter or end client directly.

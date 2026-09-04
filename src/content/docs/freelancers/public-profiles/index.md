@@ -8,7 +8,7 @@ Als Mitglied bei Uplink kannst du dir ein öffentliches Profil erstellen, um dei
 
 Die Erstellung eines Profils ist optional, aber es kann dir helfen, direkte Anfragen von Kunden zu erhalten. Unter jedem Profil ist ein Formular integriert, über das Kunden dich kontaktieren können. Wir leiten jede Kontaktanfrage nach kurzer Prüfung, um Spam zu vermeiden, an dich weiter.
 
-:::info Beta-Phase
+:::note[Beta-Phase]
 
 Da öffentliche Profile ein relativ neues Feature von Uplink sind (Launch im Dezember 2023), wollen wir sichergehen, dass sie wirklich gut funktionieren und einfach einzurichten sind, bevor wir sie für alle Mitglieder freigeben.
 

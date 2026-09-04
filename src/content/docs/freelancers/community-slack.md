@@ -49,7 +49,7 @@ Jedes Mal, wenn bei Uplink ein neuer Job veröffentlicht wird, wird er in einem 
 
 Durch die Job-Channels kannst du dir als Mitglied genau aussuchen, über welche Jobs du informiert werden und welche du ignorieren möchtest! Wenn du z.B. nur über Direktjobs mit Fokus auf Frontend oder Marketing informiert werden möchten, tritt einfach den Channels **[#jobs-direct-frontend](https://slack.com/app_redirect?team=T1LBG4C5N&channel=C83PKFGTH)** und **[#jobs-direct-marketing](https://uplink.tech/slack/jobs-direct-marketing)** bei.
 
-:::info Achtung
+:::note[Achtung]
 
 Nicht jede Job-Kategorie hat einen dedizierten Job-Channel! Jobs aus einer Kategorie ohne eigenen Job-Channel werden nur in #jobs-direct bzw. #jobs-recruiter gepostet. Wenn du also keinen Job verpassen willst, tritt einfach diesen beiden Channels bei.
 
@@ -122,7 +122,7 @@ Es gibt allerdings einige Regeln zu beachten:
 
 :::
 
-:::danger Diese Jobs sollten nicht gepostet werden
+:::danger[Diese Jobs sollten nicht gepostet werden]
 
 * Anfragen von Recruitern, mit denen du nicht über das Projekt gesprochen hast. Oft stellt sich im Gespräch heraus, dass einige Anforderungen in der Ausschreibung ungenau oder inkorrekt sind, und man kann mehr über den Endkunden erfahren.
 * Recruiter-Anfragen ohne Angabe des Stundensatzes (bzw. einer Range). Wenn diese in der Projektausschreibung nicht erwähnt ist, kann man sie durch eine Nachfrage bzw. ein kurzes Gespräch mit dem Recruiter oder Endkunden erfahren.

@@ -8,7 +8,7 @@ As a member of Uplink you can create a public profile to showcase your skills, k
 
 Creating a profile is optional, but it can help you to receive direct enquiries from clients. A form is integrated below each profile, which clients can use to contact you. We will forward every contact request to you after a brief check to avoid spam.
 
-:::info Beta phase
+:::note[Beta phase]
 
 Since public profiles are a relatively new feature of Uplink (launched December 2023), we want to make sure that they work really well and are easy to set up before we release them to all members.
 
