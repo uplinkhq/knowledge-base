@@ -1,6 +1,6 @@
 import { defineConfig } from "astro/config"
 import starlight from "@astrojs/starlight"
-import customHeadingId from "remark-custom-heading-id"
+import { satteri } from "@astrojs/markdown-satteri"
 import { cp, rename } from "node:fs/promises"
 
 // Cloudflare matches assets against the full request path, so the site has to be
@@ -26,8 +26,9 @@ export default defineConfig({
   devToolbar: {
     enabled: false
   },
+  compressHTML: true,
   markdown: {
-    remarkPlugins: [customHeadingId]
+    processor: satteri({ features: { headingAttributes: true } })
   },
   integrations: [
     liftAssetRootFiles,
