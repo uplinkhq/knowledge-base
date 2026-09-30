@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# The dev server handles --open natively and opens the URL it actually binds to.
+cd "$(dirname "$0")/.." || exit 1
+exec npm run dev -- "$@"
