@@ -2,15 +2,7 @@
 title: '🤓 Freelancer empfehlen'
 ---
 
-Die Uplink-Community wächst hauptsächlich durch die Weiterempfehlungen ihrer Mitglieder! Wir sind dafür sehr dankbar und möchten uns bei allen Mitgliedern, die ihren Kollegen und Freunden Uplink empfehlen, erkenntlich zeigen.
-
-**Aus diesem Grund verlosen wir am Anfang eines jeden Monats unter allen Mitgliedern, die im vergangenen Monat jemandem empfohlen haben, ein Dankeschön!** Der Gewinner darf wählen zwischen:
-
-* 🍺 einem Craftbeer-Paket,
-* 🤖 einem Gadget seiner Wahl
-* 🎽 oder ein Uplink T-Shirt
-
-Wir kontaktieren den Gewinner via Slack oder E-Mail und erwähnen ihn (mit seiner Erlaubnis) auch im Slack-Channel [#announcements](https://uplink.tech/slack/announcements).
+Die Uplink-Community wächst hauptsächlich durch die Weiterempfehlungen ihrer Mitglieder! Wir sind allen Mitgliedern, die ihren Kollegen und Freunden Uplink empfehlen, sehr dankbar dafür!
 
 ## Mitmachen
 
